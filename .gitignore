@@ -1,0 +1,5 @@
+.research-tools/node_modules/
+.research-tools/npm-cache/
+node_modules/
+dist/
+.npm-cache/

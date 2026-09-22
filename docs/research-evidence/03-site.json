@@ -1,0 +1,6 @@
+{
+  "id": "03",
+  "url": "https://en.shantui-africa.com/",
+  "checkedAt": "2026-09-21T06:24:04.531Z",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://en.shantui-africa.com/\nCall log:\n\u001b[2m  - navigating to \"https://en.shantui-africa.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

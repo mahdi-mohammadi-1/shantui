@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pdfjs-dist": "^6.3.289",
+    "playwright": "^1.63.0"
+  }
+}

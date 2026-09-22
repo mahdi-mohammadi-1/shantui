@@ -1,0 +1,8 @@
+{
+  "id": "38",
+  "url": "https://www.shantui-global.com/news/shantuinews-detail-2352.htm",
+  "checkedAt": "2026-09-21T07:45:14.055Z",
+  "browser": "Google Chrome",
+  "browserVersion": "153.0.8010.53",
+  "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.shantui-global.com/news/shantuinews-detail-2352.htm\nCall log:\n\u001b[2m  - navigating to \"https://www.shantui-global.com/news/shantuinews-detail-2352.htm\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

@@ -1,0 +1,240 @@
+{
+  "id": "49",
+  "url": "https://www.shantuidobrasil.com.br/equipamentos",
+  "checkedAt": "2026-09-21T07:52:46.832Z",
+  "browser": "Google Chrome",
+  "browserVersion": "153.0.8010.53",
+  "failedRequests": [
+    {
+      "url": "https://static.wixstatic.com/media/31bda5_01b6f99815394f8fb2e137ac1a838749~mv2.png/v1/fill/w_1024,h_907,al_c,q_90,enc_avif,quality_auto/31bda5_01b6f99815394f8fb2e137ac1a838749~mv2.png",
+      "error": "net::ERR_ABORTED"
+    }
+  ],
+  "status": 200,
+  "title": "Máquinas | Shantui do Brasil",
+  "finalUrl": "https://www.shantuidobrasil.com.br/equipamentos",
+  "text": "Início\nMáquinas\nPeças\nSobre\nAutorizadas\nOuvidoria\nLinhas completas para atender a sua demanda\nEscavadeiras\nMotoniveladoras\nRolo Combinado\nUsinas de concreto\nCarregadeiras Elétricas\nMini Escavadeiras\nTratores de esteira\nFresadoras\nUsinas de asfalto\nTratores Elétricos\nPás-carregadeiras\nRolos compactadores\nVibroacabadoras\nCaminhões\nMini Elétrica\nMini Carregadeiras\nRolos Tandem\nRecicladoras\nEscavadeiras Elétricas\n\n​© 2026 por Shantui do Brasil\n\nPolítica de privacidade\n\nContato/ endereços",
+  "links": [
+    {
+      "text": "Início",
+      "url": "https://www.shantuidobrasil.com.br/"
+    },
+    {
+      "text": "Máquinas",
+      "url": "https://www.shantuidobrasil.com.br/equipamentos"
+    },
+    {
+      "text": "Peças",
+      "url": "https://www.shantuidobrasil.com.br/pe%C3%A7as-de-reposi%C3%A7%C3%A3o"
+    },
+    {
+      "text": "Sobre",
+      "url": "https://www.shantuidobrasil.com.br/sobre"
+    },
+    {
+      "text": "Autorizadas",
+      "url": "https://www.shantuidobrasil.com.br/contato"
+    },
+    {
+      "text": "Ouvidoria",
+      "url": "https://www.shantuidobrasil.com.br/ouvidoria"
+    },
+    {
+      "text": "Escavadeiras",
+      "url": "https://www.shantuidobrasil.com.br/escavadeiras-m%C3%A9dias"
+    },
+    {
+      "text": "Motoniveladoras",
+      "url": "https://www.shantuidobrasil.com.br/motoniveladoras"
+    },
+    {
+      "text": "Rolo Combinado",
+      "url": "https://www.shantuidobrasil.com.br/c%C3%B3pia-srd10-c6"
+    },
+    {
+      "text": "Usinas de concreto",
+      "url": "https://www.shantuidobrasil.com.br/usina-de-concreto"
+    },
+    {
+      "text": "Carregadeiras Elétricas",
+      "url": "https://www.shantuidobrasil.com.br/carregadeiras-el%C3%A9tricas"
+    },
+    {
+      "text": "Mini Escavadeiras",
+      "url": "https://www.shantuidobrasil.com.br/mini-escavadeiras"
+    },
+    {
+      "text": "Tratores de esteira",
+      "url": "https://www.shantuidobrasil.com.br/tratores-de-esteira-m%C3%A9dios"
+    },
+    {
+      "text": "Fresadoras",
+      "url": "https://www.shantuidobrasil.com.br/fresadoras"
+    },
+    {
+      "text": "Usinas de asfalto",
+      "url": "https://www.shantuidobrasil.com.br/usina-de-asfalto"
+    },
+    {
+      "text": "Tratores Elétricos",
+      "url": "https://www.shantuidobrasil.com.br/de26-x2"
+    },
+    {
+      "text": "Pás-carregadeiras",
+      "url": "https://www.shantuidobrasil.com.br/p%C3%A1s-carregadeira-m%C3%A9dias"
+    },
+    {
+      "text": "Rolos compactadores",
+      "url": "https://www.shantuidobrasil.com.br/rolos-compactadores-tambor-individual"
+    },
+    {
+      "text": "Vibroacabadoras",
+      "url": "https://www.shantuidobrasil.com.br/vibroacabadoras"
+    },
+    {
+      "text": "Caminhões",
+      "url": "https://www.shantuidobrasil.com.br/sk90ac2"
+    },
+    {
+      "text": "Mini Elétrica",
+      "url": "https://www.shantuidobrasil.com.br/se20ei"
+    },
+    {
+      "text": "Mini Carregadeiras",
+      "url": "https://www.shantuidobrasil.com.br/mini-carregadeiras"
+    },
+    {
+      "text": "Rolos Tandem",
+      "url": "https://www.shantuidobrasil.com.br/rolos-tandem"
+    },
+    {
+      "text": "Recicladoras",
+      "url": "https://www.shantuidobrasil.com.br/dgl700m-c"
+    },
+    {
+      "text": "Escavadeiras Elétricas",
+      "url": "https://www.shantuidobrasil.com.br/se215ei"
+    },
+    {
+      "text": "Política de privacidade",
+      "url": "https://www.shantuidobrasil.com.br/pol%C3%ADtica-de-privacidade"
+    },
+    {
+      "text": "Contato/ endereços",
+      "url": "https://www.shantuidobrasil.com.br/contato"
+    }
+  ],
+  "fields": [],
+  "desktop": {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "font": "Arial, Helvetica, sans-serif",
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_af2432c122cc491f9804315efe23e4a8~mv2.png/v1/fill/w_164,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%20SHANTUI%20BRASIL%20AI%20banner%20youtube.png",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png/v1/fill/w_31,h_31,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/11062b_362ef89dec51403eb0ee59a21bde967c~mv2.png/v1/fill/w_31,h_31,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_362ef89dec51403eb0ee59a21bde967c~mv2.png",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_31,h_31,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_a0377ac8470440c39b3085532a9c4a71~mv2.jpg/v1/fill/w_1440,h_1000,al_b,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_a0377ac8470440c39b3085532a9c4a71~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_01b6f99815394f8fb2e137ac1a838749~mv2.png/v1/fill/w_1024,h_914,al_c,q_90,enc_avif,quality_auto/31bda5_01b6f99815394f8fb2e137ac1a838749~mv2.png",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_6e7410ab932f42509f0bfcd3910311ba~mv2.jpg/v1/fill/w_241,h_252,al_b,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_6e7410ab932f42509f0bfcd3910311ba~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_d42a2b61a1b6464bbc211972373dec44~mv2.jpg/v1/fill/w_241,h_252,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_d42a2b61a1b6464bbc211972373dec44~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_eb91d713750e4539a256d5311ee0a7bd~mv2.jpeg/v1/fill/w_241,h_252,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_eb91d713750e4539a256d5311ee0a7bd~mv2.jpeg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_117c4b52b8d0426ea50cf39267cdbaa2~mv2.png/v1/fill/w_241,h_252,al_r,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_117c4b52b8d0426ea50cf39267cdbaa2~mv2.png",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_74584f8c32a244d68e4628e7bd1d22ca~mv2.jpg/v1/fill/w_241,h_252,al_b,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_74584f8c32a244d68e4628e7bd1d22ca~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_d76aa7995b74448c8269d83c77de1b16~mv2.jpg/v1/fill/w_241,h_252,al_b,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_d76aa7995b74448c8269d83c77de1b16~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_5318b668854d42a3a7838782a4984f6e~mv2.jpg/v1/fill/w_241,h_252,al_b,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_5318b668854d42a3a7838782a4984f6e~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_ba310067083c431392a4f011a9185a75~mv2.jpg/v1/fill/w_241,h_252,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_ba310067083c431392a4f011a9185a75~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_9ac253a73e394ce4a45462e68d122bb9~mv2.jpg/v1/fill/w_241,h_252,al_b,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_9ac253a73e394ce4a45462e68d122bb9~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_d9618bc44acc4c41b386645c83d50a91~mv2.jpg/v1/fill/w_241,h_252,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_d9618bc44acc4c41b386645c83d50a91~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_58507c5725204e5b99e6625a93db046b~mv2.png/v1/fill/w_241,h_252,al_b,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_58507c5725204e5b99e6625a93db046b~mv2.png",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_35644783800c4055a6c3877ebd511e05~mv2.jpg/v1/fill/w_241,h_252,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_35644783800c4055a6c3877ebd511e05~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_316ca099d6e2430c9c6ece40308cd82e~mv2.png/v1/fill/w_241,h_252,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_316ca099d6e2430c9c6ece40308cd82e~mv2.png",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_ea01df45ccf14c14847eac83ddfa72c5~mv2.jpg/v1/fill/w_241,h_252,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_ea01df45ccf14c14847eac83ddfa72c5~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_8dba25523cac48e4a68e098acd30e746~mv2.png/v1/fill/w_241,h_252,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_8dba25523cac48e4a68e098acd30e746~mv2.png",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_714b30ce7fe042429b860d904702d652~mv2.jpg/v1/fill/w_241,h_252,al_b,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_714b30ce7fe042429b860d904702d652~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_64dd017b833848209d0319f68aabdd8f~mv2.jpg/v1/fill/w_241,h_252,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_64dd017b833848209d0319f68aabdd8f~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_4981b59a970542188ebd9928fff360b8~mv2.jpg/v1/fill/w_241,h_252,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_4981b59a970542188ebd9928fff360b8~mv2.jpg",
+        "loaded": true
+      },
+      {
+        "src": "https://static.wixstatic.com/media/31bda5_13abad0bb6c64451a6ace7352c913f61~mv2.jpg/v1/fill/w_241,h_252,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_13abad0bb6c64451a6ace7352c913f61~mv2.jpg",
+        "loaded": true
+      }
+    ]
+  },
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 980
+  }
+}

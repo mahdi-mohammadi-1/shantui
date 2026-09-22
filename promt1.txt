@@ -1,0 +1,59 @@
+For browser-based visual research, use the installed Google Chrome executable: C:\Program Files\Google\Chrome\Application\chrome.exe Do not use Microsoft Edge. Chrome
+ already has outbound internet access on this Windows machine Use Playwright with Chrome for live visual inspection and screenshots.
+////////////////////////////////////////////////
+part 2
+////////////////////////
+Continue from the existing research.
+
+IMPORTANT:
+Do NOT repeat the PDF analysis.
+Do NOT re-analyze the reference images.
+Do NOT repeat research on websites that were already successfully inspected.
+
+Your previous analysis of all supplied reference images already exists in:
+docs/design-research.md
+
+The existing findings and design decisions in:
+docs/design-research.md
+docs/design-system-proposal.md
+must be preserved.
+
+Your only task now is to complete the missing LIVE VISUAL WEBSITE RESEARCH.
+
+Previously, Playwright/Headless Edge could not access the websites because Edge had no internet access on this Windows machine.
+
+Use the installed Google Chrome instead:
+
+C:\Program Files\Google\Chrome\Application\chrome.exe
+
+Chrome has internet access.
+
+Review ONLY the websites/pages that you previously could not inspect visually in a live browser, or where your previous research was limited to:
+- unavailable
+- indexed only
+- empty app shell
+- page-content/text extraction without live visual inspection
+
+Do not waste time revisiting the supplied reference images.
+
+For the missing websites:
+- open them in Chrome
+- visually inspect the homepage and important relevant pages
+- inspect hero, navigation, layout, typography, spacing, product presentation, parts/service presentation, CTA placement, footer and responsive/mobile behavior where practical
+- capture screenshots only if useful for analysis
+
+Then compare ONLY the new visual findings against your existing research.
+
+Update docs/design-research.md ONLY if the live visual inspection reveals meaningful new information or changes an existing design conclusion.
+
+Do NOT rewrite the whole research document.
+Do NOT change conclusions just for the sake of changing them.
+Do NOT start React implementation yet.
+
+At the end, give me only:
+1. Which previously inaccessible websites you successfully inspected
+2. Which still could not be inspected
+3. Any NEW design findings
+4. Whether the approved "Industrial confidence, local support" direction should remain unchanged or needs specific adjustments
+
+Keep the response concise.

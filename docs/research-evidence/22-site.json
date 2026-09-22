@@ -1,0 +1,6 @@
+{
+  "id": "22",
+  "url": "https://shantuiperu.pe/",
+  "checkedAt": "2026-09-21T06:24:18.286Z",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://shantuiperu.pe/\nCall log:\n\u001b[2m  - navigating to \"https://shantuiperu.pe/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

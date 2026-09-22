@@ -1,0 +1,222 @@
+Continue from the existing project and approved research.
+
+Do NOT repeat the PDF research, reference-image analysis, or website research.
+
+I want you to REVISE THE VISUAL DIRECTION of the homepage.
+
+The current result feels too dry, too empty, too static, and too much like a basic corporate information page.
+
+SHANTUI Afghanistan represents a very large international heavy-machinery brand.
+The website must immediately communicate:
+SCALE
+POWER
+PREMIUM QUALITY
+TECHNOLOGY
+INDUSTRIAL AUTHORITY
+COMMERCIAL ACTIVITY
+
+I do NOT want a plain page with:
+image + heading + paragraph + button
+repeated section after section.
+
+The website needs much more visual energy and interaction.
+
+IMPORTANT:
+Keep the strong research, information architecture, Dari/English support, product accuracy rules, parts/service importance, accessibility and performance principles.
+
+But significantly upgrade the creative execution.
+
+DESIGN GOAL:
+
+Create a premium, modern, interactive industrial website that feels partly like a high-end product catalog / semi-commerce experience.
+
+It is NOT a normal ecommerce shop with checkout.
+
+Instead, users should feel they are browsing a serious machinery showroom.
+
+The product experience should include:
+- strong product category discovery
+- visually rich machinery cards
+- model browsing
+- availability states
+- product filtering
+- product detail previews
+- brochure actions
+- compare-ready visual structure
+- Request a Quote
+- contact / consultation
+- strong commercial presentation
+
+The homepage should feel ALIVE.
+
+Use tasteful motion and interaction such as:
+
+- premium hero entrance animation
+- subtle text reveals
+- machine image movement / controlled parallax
+- scroll-triggered section reveals
+- elegant card hover interactions
+- animated category transitions
+- product image zoom or movement on hover
+- smooth section transitions
+- sticky product/category navigation where useful
+- animated underline / active navigation states
+- subtle number or indicator transitions only when factual data exists
+- motion that helps hierarchy and product discovery
+
+Do NOT make it a motion-heavy experimental website.
+
+Animations must feel:
+premium
+controlled
+industrial
+smooth
+intentional
+
+Avoid:
+- childish animations
+- excessive floating elements
+- random blobs
+- SaaS-style gradients
+- excessive glassmorphism
+- gaming UI
+- overdone 3D
+- animations that hurt performance
+
+The visual experience should have stronger composition.
+
+I want:
+- more layered sections
+- overlapping but controlled imagery
+- stronger image cropping
+- larger machinery presence
+- stronger contrast between light and dark sections
+- premium product cards
+- bold typography
+- visual rhythm
+- sophisticated spacing
+- purposeful asymmetry in selected sections
+- richer section transitions
+- more memorable interaction
+
+The website should not feel EMPTY.
+
+Use space intentionally, but do not create huge empty white areas with very little content.
+
+The page should feel like a company of international scale.
+
+Think closer to:
+premium automotive websites
+high-end industrial manufacturers
+international heavy machinery brands
+modern product showcase websites
+
+But keep SHANTUI's identity and do not copy another brand.
+
+HOMEPAGE EXPERIENCE:
+
+The homepage should feel like a guided showroom journey:
+
+1. Powerful animated hero
+2. Immediate equipment discovery
+3. Interactive machinery categories
+4. Featured / available machinery
+5. Strong product browsing experience
+6. Parts and technical service
+7. Applications / industries
+8. SHANTUI brand scale and Afghanistan presence
+9. Projects / deliveries when real content exists
+10. Strong Request a Quote experience
+11. Premium footer
+
+The hero especially must not look like a simple banner.
+
+It should feel like a flagship brand experience.
+
+Use the SHANTUI machine itself as the visual hero.
+
+PRODUCT SECTION:
+
+Make this one of the strongest parts of the homepage.
+
+It should feel more like a premium machinery showroom than ordinary website cards.
+
+Use:
+- large machine imagery
+- category navigation
+- clear model naming
+- availability badges
+- technical highlights when verified
+- View Model
+- Request Quote
+- smooth hover interaction
+- strong visual hierarchy
+
+Do not invent product specifications.
+
+SEMI-COMMERCE EXPERIENCE:
+
+The website should visually behave like a commercial product platform without checkout.
+
+Users should be able to:
+browse
+filter
+compare visually
+check availability
+view specifications
+download brochures
+request pricing
+request consultation
+
+This commercial feeling must be visible from the homepage.
+
+MOTION SYSTEM:
+
+Create a consistent motion language.
+
+Define:
+- hero entrance behavior
+- scroll reveal behavior
+- card hover behavior
+- navigation transitions
+- image transitions
+- section transition behavior
+- reduced-motion behavior
+
+Do not randomly animate every element.
+
+VISUAL REVIEW:
+
+Before considering the redesign complete:
+
+1. Run the homepage.
+2. Inspect it visually at desktop and mobile sizes.
+3. Ask yourself:
+
+“Does this look like the Afghanistan website of a large international machinery manufacturer?”
+
+“Does it feel premium and memorable?”
+
+“Does it feel commercially active?”
+
+“Does the product browsing experience feel strong?”
+
+“Is there enough motion and visual richness without becoming excessive?”
+
+If the answer to any is no, improve it before stopping.
+
+Do not simply preserve the current dry composition.
+
+You have permission to significantly improve the visual composition while preserving the approved strategic structure.
+
+Do NOT redo the research.
+
+Focus your effort on:
+CREATIVE DIRECTION
+VISUAL QUALITY
+MOTION
+PRODUCT SHOWCASE
+INTERACTION
+BRAND SCALE
+
+Show me a significantly more premium, dynamic and commercially engaging homepage.

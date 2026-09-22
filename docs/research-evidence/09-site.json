@@ -1,0 +1,6 @@
+{
+  "id": "09",
+  "url": "https://prescott.co.ke/",
+  "checkedAt": "2026-09-21T06:24:05.423Z",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://prescott.co.ke/\nCall log:\n\u001b[2m  - navigating to \"https://prescott.co.ke/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

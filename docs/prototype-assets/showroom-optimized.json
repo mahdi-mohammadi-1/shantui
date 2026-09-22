@@ -1,0 +1,23 @@
+[
+  {
+    "source": "docs/prototype-assets/bulldozer.png",
+    "output": "public/images/bulldozer-showroom.webp",
+    "width": 940,
+    "height": 500,
+    "bytes": 78988
+  },
+  {
+    "source": "docs/prototype-assets/excavator.png",
+    "output": "public/images/excavator-showroom.webp",
+    "width": 940,
+    "height": 500,
+    "bytes": 56850
+  },
+  {
+    "source": "docs/prototype-assets/loader.png",
+    "output": "public/images/loader-showroom.webp",
+    "width": 940,
+    "height": 500,
+    "bytes": 68202
+  }
+]

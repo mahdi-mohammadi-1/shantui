@@ -1,0 +1,20 @@
+@layer theme, base, components, utilities;
+@import 'tailwindcss/theme.css' layer(theme);
+@import './styles.css' layer(components);
+@import './showroom.css' layer(components);
+@import './pages.css' layer(components);
+@import 'tailwindcss/utilities.css' layer(utilities);
+@source './';
+
+@theme {
+  --color-industrial: #151b1e;
+  --color-steel: #536168;
+  --color-paper: #f3f2ed;
+  --color-brand: #ff7200;
+  --color-rule: #d5d9d7;
+  --font-display: Barlow, Arial, sans-serif;
+  --font-body: Arial, Helvetica, sans-serif;
+  --container-site: 80rem;
+  --spacing-gutter: clamp(1.25rem, 5vw, 5rem);
+  --ease-industrial: cubic-bezier(.2,.7,.2,1);
+}

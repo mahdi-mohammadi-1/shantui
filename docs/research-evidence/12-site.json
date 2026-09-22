@@ -1,0 +1,6 @@
+{
+  "id": "12",
+  "url": "https://www.everstarindustries.com/",
+  "checkedAt": "2026-09-21T06:24:05.844Z",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://www.everstarindustries.com/\nCall log:\n\u001b[2m  - navigating to \"https://www.everstarindustries.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

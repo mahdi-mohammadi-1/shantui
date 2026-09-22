@@ -1,0 +1,114 @@
+{
+  "checkedAt": "2026-09-22T09:44:43.369Z",
+  "route": "/",
+  "section": "[data-hero]",
+  "origin": "http://127.0.0.1:4176",
+  "locales": [
+    "en",
+    "fa"
+  ],
+  "widths": [
+    1440,
+    1024,
+    768,
+    390
+  ],
+  "results": [
+    {
+      "passed": true,
+      "locale": "en",
+      "width": 1440,
+      "screenshot": "docs\\master-review\\home\\_data-hero_\\en-1440.png",
+      "dimensions": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 6315
+      },
+      "startedAt": "2026-09-22T09:43:59.531Z"
+    },
+    {
+      "passed": true,
+      "locale": "en",
+      "width": 1024,
+      "screenshot": "docs\\master-review\\home\\_data-hero_\\en-1024.png",
+      "dimensions": {
+        "viewport": 1024,
+        "scrollWidth": 1024,
+        "scrollHeight": 6298
+      },
+      "startedAt": "2026-09-22T09:44:09.634Z"
+    },
+    {
+      "passed": true,
+      "locale": "en",
+      "width": 768,
+      "screenshot": "docs\\master-review\\home\\_data-hero_\\en-768.png",
+      "dimensions": {
+        "viewport": 768,
+        "scrollWidth": 768,
+        "scrollHeight": 7342
+      },
+      "startedAt": "2026-09-22T09:44:13.179Z"
+    },
+    {
+      "passed": true,
+      "locale": "en",
+      "width": 390,
+      "screenshot": "docs\\master-review\\home\\_data-hero_\\en-390.png",
+      "dimensions": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "scrollHeight": 10031
+      },
+      "startedAt": "2026-09-22T09:44:17.115Z"
+    },
+    {
+      "passed": true,
+      "locale": "fa",
+      "width": 1440,
+      "screenshot": "docs\\master-review\\home\\_data-hero_\\fa-1440.png",
+      "dimensions": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 6363
+      },
+      "startedAt": "2026-09-22T09:44:21.354Z"
+    },
+    {
+      "passed": true,
+      "locale": "fa",
+      "width": 1024,
+      "screenshot": "docs\\master-review\\home\\_data-hero_\\fa-1024.png",
+      "dimensions": {
+        "viewport": 1024,
+        "scrollWidth": 1024,
+        "scrollHeight": 6496
+      },
+      "startedAt": "2026-09-22T09:44:26.261Z"
+    },
+    {
+      "passed": true,
+      "locale": "fa",
+      "width": 768,
+      "screenshot": "docs\\master-review\\home\\_data-hero_\\fa-768.png",
+      "dimensions": {
+        "viewport": 768,
+        "scrollWidth": 768,
+        "scrollHeight": 7574
+      },
+      "startedAt": "2026-09-22T09:44:31.646Z"
+    },
+    {
+      "passed": true,
+      "locale": "fa",
+      "width": 390,
+      "screenshot": "docs\\master-review\\home\\_data-hero_\\fa-390.png",
+      "dimensions": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "scrollHeight": 9799
+      },
+      "startedAt": "2026-09-22T09:44:37.637Z"
+    }
+  ]
+}

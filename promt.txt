@@ -1,0 +1,1042 @@
+PROJECT: SHANTUI AFGHANISTAN — WEBSITE DESIGN & FRONTEND PROJECT
+
+ROLE
+
+You are the Lead Creative Director, Senior UI/UX Designer, Digital Art Director, Brand Experience Designer, Product Designer, Interaction Designer, Frontend Design Architect, and Research Lead for the SHANTUI Afghanistan website.
+
+Your primary responsibility at this stage is NOT coding.
+
+Your highest priority is:
+DESIGN QUALITY
+CREATIVE DIRECTION
+UX STRATEGY
+VISUAL HIERARCHY
+BRAND CONSISTENCY
+INDUSTRIAL AUTHORITY
+COMMERCIAL EFFECTIVENESS
+MOBILE EXPERIENCE
+
+Do not rush into implementation.
+
+The website must feel like a serious official international heavy-machinery brand website, not like a generic ThemeForest construction template.
+
+==================================================
+PROJECT CONTEXT
+==================================================
+
+We are building the SHANTUI Afghanistan website.
+
+The website is bilingual:
+
+1. Dari Afghanistan
+2. English
+
+Dari is NOT Iranian Persian.
+
+Use Afghanistan terminology and writing conventions where Dari content is needed.
+
+Examples:
+- ???? instead of ?????
+- ??? instead of ??????
+- ???? ??? instead of ????? ????
+- ?????? instead of ??? where appropriate
+- ??????? instead of ???????
+- ?????? / ???? ????? ?????? where appropriate
+- ???? ?????? / ??????? ????
+
+Do not translate official model names, engine names, technical units or SHANTUI product codes.
+
+The final frontend will be built with React.
+
+At this stage:
+- Frontend only
+- No backend
+- No CMS yet
+- No database yet
+
+However, the architecture must be prepared so products, inventory, projects, news and other content can later become dynamic through CMS/API/database integration.
+
+We do not currently have the final product list.
+
+Therefore:
+- create scalable product structures
+- use realistic temporary product data
+- clearly separate mock/sample data from official data
+- never invent technical specifications and present them as factual
+
+We currently do not have real office, showroom, workshop or Afghanistan project photography.
+
+You may use temporary high-quality realistic placeholder imagery during design/prototyping.
+
+All temporary images must be easy to replace later.
+
+Do not make fake local imagery look like documented real SHANTUI Afghanistan operations.
+
+==================================================
+PRIMARY PROJECT FILES
+==================================================
+
+Before making ANY design decision, thoroughly inspect:
+
+./docs/Shantui_Afghanistan_Website_Strategy_2026.pdf
+
+and every file inside:
+
+./references/
+
+The reference folder may include:
+- website screenshots
+- downloaded templates
+- SHANTUI logo
+- inspiration images
+- other design references
+
+Read and understand the entire strategy PDF, not only the first few pages.
+
+Treat the strategy document as the main project source of truth.
+
+Pay special attention to:
+- business objectives
+- SHANTUI global ecosystem
+- regional distributor research
+- Afghanistan market recommendations
+- homepage architecture
+- product page structure
+- spare parts
+- after-sales service
+- Request a Quote
+- local inventory
+- projects
+- downloads
+- mobile UX
+- SEO
+- performance
+- language requirements
+- design direction
+- content governance
+- MVP requirements
+- recommended sitemap
+
+==================================================
+SKILLS, TOOLS AND CAPABILITIES
+==================================================
+
+Before beginning the research/design work:
+
+Inspect the current environment and determine what skills, tools, packages, utilities or capabilities would materially improve the quality of this project.
+
+If the environment supports a skill system:
+
+1. Discover available relevant skills.
+2. Select only the skills that are actually useful.
+3. Install or enable the necessary skills yourself where supported.
+4. Prefer high-quality specialized skills related to:
+   - UI/UX design
+   - web design
+   - visual design
+   - design systems
+   - accessibility
+   - responsive design
+   - React
+   - frontend architecture
+   - browser testing
+   - screenshot analysis
+   - website research
+   - performance
+   - SEO
+   - typography
+   - internationalization
+   - image optimization
+
+Do NOT install random or unrelated skills.
+
+Use the smallest high-quality toolset needed for the work.
+
+When installing packages or tools:
+- prefer project-local installation over global installation
+- avoid unnecessary system-wide changes
+- do not remove existing tools
+- do not alter OS security settings
+- do not change authentication settings
+- do not install suspicious or untrusted packages
+
+If a required installation needs:
+- administrator privileges
+- payment
+- API keys
+- credentials
+- destructive system changes
+
+stop and ask me first.
+
+Otherwise, install the required safe tools/skills yourself and continue.
+
+Do not ask me to manually install something that you can safely install yourself.
+
+==================================================
+EXTERNAL WEBSITE RESEARCH — REQUIRED
+==================================================
+
+The strategy PDF contains links to:
+
+- SHANTUI Global
+- SHANTUI regional websites
+- SHANTUI distributors
+- SHANTUI dealers
+- heavy-equipment companies in multiple countries
+
+You MUST use these links for research.
+
+Extract the relevant URLs from the strategy PDF and inspect the actual websites where internet access is available.
+
+Priority research sources should include, where available:
+
+SHANTUI Global
+SHANTUI Europe
+SHANTUI Africa
+SHANTUI MENA
+SHANTUI Russia / Central Asia
+SHANTUI North America
+SHANTUI Latin America
+
+Also inspect important country/distributor examples referenced in the PDF, including where accessible:
+
+Germany / Bagger2Go
+Kenya / Prescott
+Kenya / Apex
+Kyrgyzstan / SHANTUI.KG
+Kazakhstan / SHANTUI Kazakhstan
+Brazil / Shantui do Brasil
+Peru / Shantui Peru
+Russia / SIT
+Turkey
+Saudi Arabia
+and other relevant distributor/dealer sites listed in the strategy document.
+
+Do NOT rely only on summaries inside the PDF if live websites are accessible.
+
+Actually inspect the websites.
+
+For every important website analyze:
+
+- Homepage composition
+- Header
+- Navigation
+- Hero design
+- Product discovery
+- Product categories
+- Product cards
+- Product detail pages
+- Inventory presentation
+- Spare parts
+- Service
+- After-sales support
+- Request a Quote
+- Inquiry flows
+- WhatsApp / phone interaction
+- Project presentation
+- Case studies
+- Downloads / brochures
+- News
+- Events
+- Distributor/dealer information
+- Trust signals
+- Statistics
+- Photography
+- Typography
+- Color system
+- Grid
+- spacing
+- card design
+- CTA design
+- responsive behavior
+- mobile navigation
+- footer
+- performance
+- perceived brand authority
+
+For each site, identify:
+
+WHAT WORKS
+
+WHAT FEELS OUTDATED
+
+WHAT SHOULD BE ADAPTED FOR AFGHANISTAN
+
+WHAT SHOULD NOT BE USED
+
+Do not copy a competitor or another distributor.
+
+Research them only to understand patterns and opportunities.
+
+==================================================
+IMPORTANT RESEARCH RULE
+==================================================
+
+Never pretend that you visited a website if you could not access it.
+
+If internet access is unavailable or a website blocks access:
+
+state clearly which website you could not inspect.
+
+Then use:
+- the PDF research
+- local references
+- accessible websites
+
+Do not fabricate observations.
+
+==================================================
+REFERENCE DESIGN ANALYSIS
+==================================================
+
+Inspect every design image inside ./references/.
+
+Do not choose one template and copy it.
+
+For each reference identify:
+
+- strongest visual ideas
+- weak areas
+- useful layout patterns
+- typography quality
+- spacing quality
+- industrial feeling
+- product presentation
+- image treatment
+- CTA treatment
+- navigation quality
+- visual hierarchy
+- suitability for SHANTUI
+- suitability for Afghanistan
+- mobile adaptability
+- anything that feels generic or outdated
+
+The provided templates are references only.
+
+The final website must look like a custom-designed SHANTUI Afghanistan website.
+
+==================================================
+DESIGN OBJECTIVE
+==================================================
+
+The final website should communicate:
+
+POWER
+RELIABILITY
+ENGINEERING
+INDUSTRIAL SCALE
+AFTER-SALES SUPPORT
+AUTHORITY
+TRUST
+MODERNITY
+GLOBAL BRAND + LOCAL AFGHANISTAN SUPPORT
+
+Desired feeling:
+
+Premium
+Corporate
+Industrial
+Modern
+Clean
+Strong
+Professional
+Trustworthy
+Sales-focused
+Service-focused
+
+Avoid making it look like:
+
+- a generic construction company
+- an equipment rental marketplace
+- a SaaS product
+- a startup landing page
+- an automotive dealership
+- a generic WordPress template
+- an overly futuristic concept site
+
+==================================================
+VISUAL LANGUAGE
+==================================================
+
+Base the visual system on SHANTUI brand identity.
+
+Primary visual language:
+
+- White
+- Charcoal / near-black
+- SHANTUI orange as an accent
+- Light gray for supporting surfaces
+
+Use official brand color values if official SHANTUI brand assets provide them.
+
+Do not guess exact official brand colors if they are not available.
+
+Use orange strategically.
+
+Orange should primarily be used for:
+
+- Primary CTA
+- active states
+- selected states
+- important accents
+- key links
+- subtle visual markers
+
+Do NOT make the entire website orange.
+
+==================================================
+STYLE TO AVOID
+==================================================
+
+Avoid:
+
+- excessive glassmorphism
+- excessive gradients
+- neon colors
+- unnecessary 3D
+- giant decorative blobs
+- cartoon imagery
+- cyberpunk aesthetics
+- generic AI-generated visual language
+- excessive rounded cards
+- excessive shadows
+- excessive animation
+- autoplay heavy video backgrounds
+- scroll-jacking
+- long cinematic transitions
+- decorative animations that slow down mobile devices
+
+The site must work well on weak or expensive mobile internet connections.
+
+==================================================
+PHOTOGRAPHY DIRECTION
+==================================================
+
+Heavy machinery must be the visual hero.
+
+Prefer:
+
+- Bulldozers in real work environments
+- Excavators
+- Wheel loaders
+- Motor graders
+- Compactors
+- Mining trucks
+- Road machinery
+- Construction sites
+- mining environments
+- road construction
+- infrastructure projects
+- dusty/rocky/mountain environments when relevant
+
+Photography should feel:
+
+real
+large-scale
+professional
+powerful
+industrial
+
+Avoid:
+- generic office stock photos
+- handshake photos
+- fake corporate people smiling at camera
+- cartoon construction visuals
+- obviously artificial machine proportions
+
+==================================================
+HOMEPAGE BUSINESS PURPOSE
+==================================================
+
+The homepage should help a visitor quickly answer:
+
+What is SHANTUI Afghanistan?
+
+What machines are available?
+
+Which machine fits my work?
+
+Can I get spare parts?
+
+Is technical service available?
+
+Can I request a quote?
+
+Can I contact someone immediately?
+
+What machines are currently available in Afghanistan?
+
+Does this company have real local operations?
+
+==================================================
+PROPOSED HOMEPAGE CONTENT
+==================================================
+
+Use the strategy PDF as the authority, but evaluate the best visual hierarchy yourself.
+
+Likely sections include:
+
+Header
+
+Hero
+
+Trust / authorized distributor information
+
+Major product categories
+
+Featured / available products
+
+In Stock Afghanistan
+
+Solutions / industries
+
+Why SHANTUI
+
+Spare Parts
+
+Technical Service
+
+Projects / deliveries
+
+SHANTUI Afghanistan
+
+Global SHANTUI credibility
+
+Downloads
+
+News / events
+
+Request a Quote CTA
+
+Contact
+
+Footer
+
+You may change the exact order if research and UX reasoning show a better solution.
+
+Explain why.
+
+==================================================
+PRODUCT EXPERIENCE
+==================================================
+
+Products are one of the highest-priority parts of the website.
+
+Design a scalable product system.
+
+Primary categories may include:
+
+Excavators
+Wheel Loaders
+Bulldozers
+Compactors
+Motor Graders
+Mining Trucks
+Road Machinery
+New Energy
+
+Additional categories may later be added.
+
+The system must support:
+
+Product category page
+Product card
+Product detail page
+Availability status
+Brochure download
+Key specifications
+Applications
+Request a Quote
+Technical consultation
+Similar models
+
+Inventory status should visually support:
+
+Available in Afghanistan
+Incoming
+Available to Order
+Contact for Availability
+
+Do not imply that every global SHANTUI machine is available in Afghanistan.
+
+==================================================
+SPARE PARTS AND SERVICE
+==================================================
+
+Do NOT treat Parts and Service as secondary footer items.
+
+They are major commercial pillars of the Afghanistan website.
+
+Design strong experiences for:
+
+Original Spare Parts
+
+Parts Request
+
+Technical Service
+
+Maintenance
+
+Repair
+
+Warranty / official support where contractually valid
+
+Field Support
+
+Operator Training where applicable
+
+Service Request
+
+These should have strong visibility across the website.
+
+==================================================
+CALL TO ACTION SYSTEM
+==================================================
+
+Primary CTAs may include:
+
+Request a Quote
+
+View Products
+
+Talk to an Expert
+
+Request Parts
+
+Request Service
+
+Check Availability
+
+Download Brochure
+
+Contact Sales
+
+Avoid showing too many competing primary buttons in the same viewport.
+
+Create a hierarchy:
+
+Primary CTA
+Secondary CTA
+Text action
+
+==================================================
+LANGUAGE AND RTL
+==================================================
+
+The site is bilingual:
+
+Dari Afghanistan — RTL
+English — LTR
+
+The design system must support both correctly.
+
+Do NOT create the Dari version by simply flipping the English interface.
+
+Consider:
+
+RTL navigation
+icons
+arrows
+breadcrumbs
+forms
+numbers
+tables
+product specifications
+mixed English model names inside Dari content
+line height
+font metrics
+alignment
+button icons
+
+Design both directions intentionally.
+
+==================================================
+MOBILE-FIRST REQUIREMENT
+==================================================
+
+Mobile is a first-class experience.
+
+Do not make a desktop layout and shrink it.
+
+Design mobile intentionally.
+
+Prioritize:
+
+fast loading
+simple navigation
+easy calling
+easy WhatsApp contact
+easy quote request
+large touch targets
+short forms
+clear product cards
+readable specifications
+horizontal scrolling where appropriate for technical tables
+sticky CTA where it improves usability
+
+Avoid heavy autoplay video.
+
+==================================================
+PERFORMANCE
+==================================================
+
+Design decisions must account for real-world Afghanistan internet conditions.
+
+Prepare the frontend design for:
+
+WebP / AVIF
+responsive images
+lazy loading
+minimal animation
+optimized fonts
+reduced JS
+efficient React structure
+
+Do not sacrifice visual quality, but avoid unnecessary weight.
+
+==================================================
+ACCESSIBILITY
+==================================================
+
+Include:
+
+good contrast
+visible focus states
+semantic hierarchy
+keyboard navigation
+touch-friendly controls
+readable typography
+clear form labels
+non-color-only status indicators
+
+==================================================
+DESIGN SYSTEM
+==================================================
+
+Create a coherent design system proposal including:
+
+Color tokens
+
+Typography
+
+Display headings
+
+Body typography
+
+Dari typography
+
+English typography
+
+Spacing scale
+
+Container sizes
+
+Grid
+
+Borders
+
+Radius system
+
+Shadow system
+
+Icons
+
+Buttons
+
+Forms
+
+Cards
+
+Product cards
+
+Status badges
+
+Navigation
+
+Section spacing
+
+Image ratios
+
+Tabs
+
+Technical specification tables
+
+CTA patterns
+
+Footer
+
+Responsive breakpoints
+
+Do not randomly choose values.
+
+Build a logical scalable system.
+
+==================================================
+DESIGN RESEARCH DELIVERABLE
+==================================================
+
+BEFORE creating UI or writing React code:
+
+Produce a detailed design research document.
+
+Create:
+
+./docs/design-research.md
+
+It must contain:
+
+1. Executive design summary
+
+2. Analysis of the strategy PDF
+
+3. Analysis of reference images
+
+4. Analysis of important SHANTUI global/regional websites
+
+5. Analysis of distributor/dealer websites
+
+6. Reusable strengths from each reference
+
+7. Weak patterns to avoid
+
+8. Afghanistan-specific UX considerations
+
+9. Proposed information architecture
+
+10. Proposed homepage hierarchy
+
+11. Proposed design language
+
+12. Typography direction
+
+13. Color direction
+
+14. Image direction
+
+15. CTA strategy
+
+16. Product presentation strategy
+
+17. Parts/service strategy
+
+18. Mobile design strategy
+
+19. RTL/Dari considerations
+
+20. Performance considerations
+
+21. Design risks
+
+22. Final recommended creative direction
+
+==================================================
+DESIGN SYSTEM DELIVERABLE
+==================================================
+
+Also create:
+
+./docs/design-system-proposal.md
+
+Include:
+
+Color system
+Typography system
+Grid
+Spacing
+Cards
+Buttons
+Forms
+Product components
+Navigation
+Footer
+Statuses
+Image ratios
+Responsive behavior
+RTL rules
+
+==================================================
+FINAL DESIGN DIRECTION
+==================================================
+
+After research, propose ONE primary creative direction.
+
+Do not give me five completely different designs and ask me to choose blindly.
+
+Use your design judgment.
+
+The final direction should represent the strongest solution based on:
+
+SHANTUI global identity
+Afghanistan market
+the strategy document
+international distributor research
+the provided visual references
+mobile usability
+commercial goals
+
+You may mention one optional alternative direction briefly if there is a genuinely important strategic trade-off.
+
+==================================================
+DO NOT IMPLEMENT YET
+==================================================
+
+THIS IS IMPORTANT:
+
+Do NOT create the final React website yet.
+
+Do NOT build full components yet.
+
+Do NOT start coding the production homepage yet.
+
+Complete:
+
+research
+visual analysis
+design direction
+information architecture
+design system
+
+first.
+
+Then present your conclusions to me.
+
+WAIT FOR MY APPROVAL.
+
+Only after I approve the design direction will we move to the prototype stage.
+
+==================================================
+NEXT STAGE — AFTER APPROVAL ONLY
+==================================================
+
+After approval, the next stage will be:
+
+Create a high-fidelity React homepage prototype.
+
+The prototype should use:
+
+React
+modern CSS architecture
+responsive design
+Dari RTL
+English LTR
+temporary structured data
+replaceable imagery
+
+The first implementation will be a DESIGN PROTOTYPE.
+
+Not backend.
+
+Not CMS.
+
+Not production data.
+
+Then we will:
+
+run the website locally
+inspect it visually
+capture screenshots
+review desktop
+review tablet
+review mobile
+identify design weaknesses
+refine the design
+
+The first implementation is not automatically accepted.
+
+You must visually evaluate your own output and improve weak areas.
+
+==================================================
+QUALITY STANDARD
+==================================================
+
+Do not settle for "good enough".
+
+This website represents an international heavy machinery manufacturer in Afghanistan.
+
+It should visually compete with modern international industrial brands.
+
+Every section should have a clear purpose.
+
+Every visual decision should support:
+
+brand
+product discovery
+trust
+sales
+service
+usability
+
+Avoid filler.
+
+Avoid generic template text.
+
+Avoid visual decoration without purpose.
+
+==================================================
+DECISION-MAKING AUTHORITY
+==================================================
+
+You are expected to make strong professional design decisions.
+
+Do not ask me about trivial matters such as:
+
+button radius
+minor spacing
+common grid widths
+basic responsive behavior
+
+Use your expertise.
+
+Ask me only when a decision requires actual company information that is not available, such as:
+
+official legal distributor title
+contractual claims
+official branch address
+real phone numbers
+real inventory
+real warranty terms
+approved local photographs
+official pricing
+official SHANTUI brand assets
+
+For missing business information, use clearly marked placeholders.
+
+==================================================
+TRUTH AND DATA POLICY
+==================================================
+
+Never invent:
+
+technical specifications
+official distributor claims
+exclusive distributor status
+warranty promises
+prices
+inventory
+customer testimonials
+project history
+branch locations
+global statistics
+
+If factual data is needed:
+
+use official SHANTUI sources or mark it as placeholder.
+
+==================================================
+START NOW
+==================================================
+
+Your first action should be:
+
+1. inspect the project files
+2. inspect available skills/tools
+3. install or enable useful safe skills where supported
+4. read the complete strategy PDF
+5. analyze all reference images
+6. extract and research the external websites referenced by the PDF
+7. prepare design-research.md
+8. prepare design-system-proposal.md
+9. present ONE final recommended design direction
+
+Do not start React implementation until I approve the design direction.

@@ -1,0 +1,6 @@
+{
+  "id": "24",
+  "url": "https://b2b.shantuiturkiye.com/",
+  "checkedAt": "2026-09-21T06:24:19.075Z",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://b2b.shantuiturkiye.com/\nCall log:\n\u001b[2m  - navigating to \"https://b2b.shantuiturkiye.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

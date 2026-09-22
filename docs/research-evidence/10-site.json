@@ -1,0 +1,6 @@
+{
+  "id": "10",
+  "url": "https://apextrux.com/shantui",
+  "checkedAt": "2026-09-21T06:24:05.814Z",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://apextrux.com/shantui\nCall log:\n\u001b[2m  - navigating to \"https://apextrux.com/shantui\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

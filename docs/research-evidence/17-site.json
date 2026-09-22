@@ -1,0 +1,6 @@
+{
+  "id": "17",
+  "url": "https://masautomobil.co.id/",
+  "checkedAt": "2026-09-21T06:24:17.061Z",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://masautomobil.co.id/\nCall log:\n\u001b[2m  - navigating to \"https://masautomobil.co.id/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

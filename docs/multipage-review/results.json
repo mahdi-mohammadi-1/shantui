@@ -1,0 +1,262 @@
+{
+  "checkedAt": "2026-09-22T04:10:45.613Z",
+  "routeCountPerLanguage": 26,
+  "results": [
+    {
+      "name": "en 1440px: /home",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /equipment",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /equipment/bulldozers",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /equipment/excavators",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /equipment/loaders",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /equipment/compactors",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /equipment/graders",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /equipment/trucks",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /models/sd22",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /models/se220lc",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /models/l55-b5",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /models/sr22",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /models/sg21",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /models/mining-range",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /availability",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /parts",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /service",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /applications",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /applications/mining",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /applications/roads",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /applications/infrastructure",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /company",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /contact",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /quote",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /downloads",
+      "passed": true
+    },
+    {
+      "name": "en 1440px: /privacy",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /home",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /equipment",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /equipment/bulldozers",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /equipment/excavators",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /equipment/loaders",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /equipment/compactors",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /equipment/graders",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /equipment/trucks",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /models/sd22",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /models/se220lc",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /models/l55-b5",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /models/sr22",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /models/sg21",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /models/mining-range",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /availability",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /parts",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /service",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /applications",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /applications/mining",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /applications/roads",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /applications/infrastructure",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /company",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /contact",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /quote",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /downloads",
+      "passed": true
+    },
+    {
+      "name": "fa 390px: /privacy",
+      "passed": true
+    },
+    {
+      "name": "en 390px: catalog, model, parts, contact and quote reflow",
+      "passed": true
+    },
+    {
+      "name": "fa 1440px: catalog, model, parts, contact and quote reflow",
+      "passed": true
+    },
+    {
+      "name": "en 320px: catalog, model, parts, contact and quote reflow",
+      "passed": true
+    },
+    {
+      "name": "fa 320px: catalog, model, parts, contact and quote reflow",
+      "passed": true
+    },
+    {
+      "name": "Native links, deep-link reload, browser back/forward and language continuity",
+      "passed": true
+    },
+    {
+      "name": "Comparison persists across pages and hands the exact model to the request page",
+      "passed": true
+    },
+    {
+      "name": "en: inline request validation, review, edit and department context",
+      "passed": true
+    },
+    {
+      "name": "fa: inline request validation, review, edit and department context",
+      "passed": true
+    },
+    {
+      "name": "Mobile navigation, search empty state, documents and unknown routes",
+      "passed": true
+    },
+    {
+      "name": "Home motion reinitializes after navigation and respects reduced motion",
+      "passed": true
+    },
+    {
+      "name": "Missing machine imagery keeps model and request pages usable",
+      "passed": true
+    },
+    {
+      "name": "No JavaScript runtime errors on route matrix",
+      "passed": true
+    }
+  ]
+}

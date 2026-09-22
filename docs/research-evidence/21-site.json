@@ -1,0 +1,6 @@
+{
+  "id": "21",
+  "url": "https://www.shantuidobrasil.com.br/",
+  "checkedAt": "2026-09-21T06:24:17.896Z",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://www.shantuidobrasil.com.br/\nCall log:\n\u001b[2m  - navigating to \"https://www.shantuidobrasil.com.br/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

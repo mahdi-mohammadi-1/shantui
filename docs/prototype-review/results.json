@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-09-22T03:17:16.791Z",
+  "results": [
+    {
+      "name": "en: layout and assets at 1440px",
+      "passed": true
+    },
+    {
+      "name": "en: layout and assets at 1024px",
+      "passed": true
+    },
+    {
+      "name": "en: layout and assets at 768px",
+      "passed": true
+    },
+    {
+      "name": "en: layout and assets at 390px",
+      "passed": true
+    },
+    {
+      "name": "en: layout and assets at 320px",
+      "passed": true
+    },
+    {
+      "name": "en: filtering, model context, forms, keyboard and language",
+      "passed": true
+    },
+    {
+      "name": "fa: layout and assets at 1440px",
+      "passed": true
+    },
+    {
+      "name": "fa: layout and assets at 1024px",
+      "passed": true
+    },
+    {
+      "name": "fa: layout and assets at 768px",
+      "passed": true
+    },
+    {
+      "name": "fa: layout and assets at 390px",
+      "passed": true
+    },
+    {
+      "name": "fa: layout and assets at 320px",
+      "passed": true
+    },
+    {
+      "name": "fa: filtering, model context, forms, keyboard and language",
+      "passed": true
+    },
+    {
+      "name": "Missing images: readable categories, models and working quote",
+      "passed": true
+    }
+  ]
+}

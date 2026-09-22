@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-09-22T03:47:02.615Z",
+  "results": [
+    {
+      "name": "en: layout and assets at 1440px",
+      "passed": true
+    },
+    {
+      "name": "en: layout and assets at 1024px",
+      "passed": true
+    },
+    {
+      "name": "en: layout and assets at 768px",
+      "passed": true
+    },
+    {
+      "name": "en: layout and assets at 390px",
+      "passed": true
+    },
+    {
+      "name": "en: layout and assets at 320px",
+      "passed": true
+    },
+    {
+      "name": "en: filtering, model context, forms, keyboard and language",
+      "passed": true
+    },
+    {
+      "name": "fa: layout and assets at 1440px",
+      "passed": true
+    },
+    {
+      "name": "fa: layout and assets at 1024px",
+      "passed": true
+    },
+    {
+      "name": "fa: layout and assets at 768px",
+      "passed": true
+    },
+    {
+      "name": "fa: layout and assets at 390px",
+      "passed": true
+    },
+    {
+      "name": "fa: layout and assets at 320px",
+      "passed": true
+    },
+    {
+      "name": "fa: filtering, model context, forms, keyboard and language",
+      "passed": true
+    },
+    {
+      "name": "Normal motion, scroll reveals and reduced-motion preference changes",
+      "passed": true
+    },
+    {
+      "name": "Mobile comparison and search reflow in Dari",
+      "passed": true
+    },
+    {
+      "name": "Missing images: readable categories, models and working quote",
+      "passed": true
+    }
+  ]
+}

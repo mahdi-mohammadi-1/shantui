@@ -1,0 +1,9 @@
+{
+  "id": "47",
+  "url": "https://shantui.kg/katalog-2/",
+  "checkedAt": "2026-09-21T07:52:19.271Z",
+  "browser": "Google Chrome",
+  "browserVersion": "153.0.8010.53",
+  "failedRequests": [],
+  "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://shantui.kg/katalog-2/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

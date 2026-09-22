@@ -1,0 +1,262 @@
+{
+  "id": "53",
+  "url": "https://shantuiperu.pe/contactenos/",
+  "checkedAt": "2026-09-21T07:53:16.378Z",
+  "browser": "Google Chrome",
+  "browserVersion": "153.0.8010.53",
+  "failedRequests": [],
+  "status": 200,
+  "title": "Contáctenos - Shantui Perú",
+  "finalUrl": "https://shantuiperu.pe/contactenos/",
+  "text": "Ir al contenido\nInicio\nAcerca de Shantui\nLista de maquinarias\nConsecionaria 360\nNoticias\nContáctenos\nCONTÁCTENOS\nEnvíenos un mensaje\nNombre\nApellido\nTeléfono\nEmail\nMensaje\nEnviar\nCONCESIONARIO VIRTUAL 360°\nDatos de contacto\nSala de ventas: Av. Circunvalación 2110, San Luis\nCentral: +(51) 981 207 655\nTaller: +(51) 923 536 226\nRepuestos: +(51) 981 229 729\nLima: Prolongación Parinacochas 1567 La Victoria\n+(51) 960 715 338\nVIDEOS\n\nShantui, representado en el Perú por Camiones Chinos Perú S.A.C.\n\nMapa del Sitio\nInicio\nAcerca de SHANTUI\nLista de Vehículos\nConcesionario Virtual\nRepuestos\nNoticias\nContacto\nEnlaces de Interés\nPolítica de Privacidad\n \nTérminos y Condiciones del Uso del Sitio Web y Redes Sociales\n \nLibro de Reclamaciones\nDatos de Contacto\n+(51) 960 715 338\n \nCentral\n+(51) 981 207 655\n \nRepuestos\n+(51) 981 229 729\n \nmarketing@sinotruk-howo.pe\n\n \n\n© 2026 Camiones Chinos Perú. Todos los derechos reservados.",
+  "links": [
+    {
+      "text": "Ir al contenido",
+      "url": "https://shantuiperu.pe/contactenos/#content"
+    },
+    {
+      "text": "Inicio",
+      "url": "https://shantuiperu.pe/"
+    },
+    {
+      "text": "Acerca de Shantui",
+      "url": "https://shantuiperu.pe/nosotros/"
+    },
+    {
+      "text": "Lista de maquinarias",
+      "url": "https://shantuiperu.pe/lista-de-maquinarias/"
+    },
+    {
+      "text": "Consecionaria 360",
+      "url": "https://shantuiperu.pe/consecionaria-360/"
+    },
+    {
+      "text": "Noticias",
+      "url": "https://shantuiperu.pe/noticias/"
+    },
+    {
+      "text": "Contáctenos",
+      "url": "https://shantuiperu.pe/contactenos/"
+    },
+    {
+      "text": "Inicio",
+      "url": "https://shantuiperu.pe/"
+    },
+    {
+      "text": "Acerca de Shantui",
+      "url": "https://shantuiperu.pe/nosotros/"
+    },
+    {
+      "text": "Lista de maquinarias",
+      "url": "https://shantuiperu.pe/lista-de-maquinarias/"
+    },
+    {
+      "text": "Consecionaria 360",
+      "url": "https://shantuiperu.pe/consecionaria-360/"
+    },
+    {
+      "text": "Noticias",
+      "url": "https://shantuiperu.pe/noticias/"
+    },
+    {
+      "text": "Contáctenos",
+      "url": "https://shantuiperu.pe/contactenos/"
+    },
+    {
+      "text": "Inicio",
+      "url": "https://shantuiperu.pe/"
+    },
+    {
+      "text": "Acerca de SHANTUI",
+      "url": "https://shantuiperu.pe/nosotros/"
+    },
+    {
+      "text": "Lista de Vehículos",
+      "url": "https://shantuiperu.pe/lista-de-maquinarias/"
+    },
+    {
+      "text": "Concesionario Virtual",
+      "url": "https://shantuiperu.pe/consecionaria-360/"
+    },
+    {
+      "text": "Repuestos",
+      "url": "https://howopower.pe/"
+    },
+    {
+      "text": "Noticias",
+      "url": "https://shantuiperu.pe/noticias/"
+    },
+    {
+      "text": "Contacto",
+      "url": "https://shantuiperu.pe/contactenos/"
+    },
+    {
+      "text": "Política de Privacidad",
+      "url": "https://shantuiperu.pe/politicas-de-privacidad/"
+    },
+    {
+      "text": "Términos y Condiciones del Uso del Sitio Web y Redes Sociales",
+      "url": "https://shantuiperu.pe/terminos-y-condiciones-del-uso/"
+    },
+    {
+      "text": "Libro de Reclamaciones",
+      "url": "https://shantuiperu.pe/libro-de-reclamaciones/"
+    },
+    {
+      "text": "+(51) 960 715 338",
+      "url": "https://wa.link/camioneschinosperu-sinotruk"
+    }
+  ],
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "post_id",
+      "placeholder": null,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "form_id",
+      "placeholder": null,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "referer_title",
+      "placeholder": null,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "queried_id",
+      "placeholder": null,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "form_fields[name]",
+      "placeholder": "Nombre",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "form_fields[field_990d153]",
+      "placeholder": "Apellido",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "tel",
+      "name": "form_fields[field_01a075b]",
+      "placeholder": "Teléfono",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "form_fields[email]",
+      "placeholder": "Email",
+      "required": true
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "name": "form_fields[message]",
+      "placeholder": "Mensaje",
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "post_id",
+      "placeholder": null,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "form_id",
+      "placeholder": null,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "referer_title",
+      "placeholder": null,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "queried_id",
+      "placeholder": null,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "form_fields[name]",
+      "placeholder": "Nombre completo",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "tel",
+      "name": "form_fields[field_01a075b]",
+      "placeholder": "Teléfono",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "form_fields[email]",
+      "placeholder": "Email",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "form_fields[field_990d153]",
+      "placeholder": "Empresa",
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "form_fields[field_a8daab0]",
+      "placeholder": "Industria o sector",
+      "required": true
+    }
+  ],
+  "desktop": {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fonts": "loading",
+    "images": [
+      {
+        "src": "https://shantuiperu.pe/wp-content/uploads/2025/06/logo-2026.png",
+        "loaded": true
+      },
+      {
+        "src": "https://shantuiperu.pe/wp-content/uploads/2025/06/logo-2026.png",
+        "loaded": true
+      },
+      {
+        "src": "https://shantuiperu.pe/wp-content/uploads/2025/07/logo-hor-blanco-1024x228.png",
+        "loaded": true
+      }
+    ]
+  },
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390
+  }
+}

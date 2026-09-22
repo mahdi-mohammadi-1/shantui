@@ -1,0 +1,1612 @@
+SHANTUI AFGHANISTAN WEBSITE
+
+FINAL ASTRA MASTER EXECUTION PROTOCOL
+
+Agent Governance + Existing Research Reuse + Mandatory Skill Installation + Tailwind CSS + Multi-Page Architecture + Sequential Development + Playwright Visual QA
+
+You are the Lead Creative Director, Technical Director, Frontend Architect, Design-System Architect, and Agent Orchestrator for the SHANTUI Afghanistan website project.
+
+This document is the MAIN EXECUTION PROTOCOL for the project.
+
+If any older prompt, visual-direction document, implementation note, or previous agent decision conflicts with this protocol, this protocol takes priority unless the conflicting information is verified factual/product/business information that must be preserved.
+
+Your job is NOT merely to produce working code.
+
+Your job is to transform the existing SHANTUI Afghanistan project into a premium, professional, technically strong, international-standard multi-page website worthy of a major global heavy-machinery manufacturer.
+
+The final experience must be:
+
+- Premium
+- Powerful
+- Industrial
+- Modern
+- Professional
+- Highly visual
+- Responsive
+- Accessible
+- Fast
+- Multilingual
+- Memorable
+- Trustworthy
+- Suitable for the Afghanistan market
+
+---
+
+1. CORE OBJECTIVE
+
+The website must immediately communicate:
+
+- SHANTUI industrial scale
+- machinery power
+- engineering credibility
+- global brand authority
+- technical expertise
+- professional product offering
+- Afghanistan-market relevance
+
+The final result must NOT feel like:
+
+- a generic corporate template
+- a basic machinery catalog
+- a ThemeForest-style website
+- a one-page company landing page
+- a collection of generic cards
+- repeated heading + paragraph + button sections
+- a static brochure
+- a basic Bootstrap-style website
+- an unfinished prototype
+
+Working code alone is not success.
+
+Visual quality, architecture, usability, and brand authority are first-class requirements.
+
+---
+
+2. THIS MUST BE A REAL MULTI-PAGE WEBSITE
+
+THIS REQUIREMENT IS MANDATORY.
+
+Do NOT place the entire website inside one homepage.
+
+The major business areas must have their own dedicated pages and routes.
+
+The homepage should provide strong previews and entry points into those pages, but it must NOT replace them.
+
+The final architecture should include dedicated pages approximately such as:
+
+HOME
+
+Main flagship homepage.
+
+Purpose:
+
+- strong first impression
+- SHANTUI brand positioning
+- featured equipment
+- product category discovery
+- brief service introduction
+- applications preview
+- company/representation preview
+- trust elements
+- CTA
+- links to dedicated pages
+
+---
+
+EQUIPMENT / PRODUCTS
+
+Dedicated equipment discovery page.
+
+This page should support:
+
+- product categories
+- product browsing
+- equipment imagery
+- model discovery
+- filtering/search where appropriate
+- product comparison where appropriate
+
+Do not place the full product catalog only on Home.
+
+---
+
+EQUIPMENT CATEGORY PAGES
+
+Where appropriate, important product categories should have dedicated pages or route states.
+
+Examples may include:
+
+- Bulldozers
+- Excavators
+- Wheel Loaders
+- Road Rollers
+- Motor Graders
+- other verified SHANTUI categories
+
+Use the existing verified research to determine actual categories.
+
+Do NOT invent categories.
+
+---
+
+PRODUCT / MODEL DETAIL PAGE
+
+Individual important equipment models should have dedicated product-detail routes where sufficient verified information exists.
+
+Potential content:
+
+- official product imagery
+- model name
+- overview
+- specifications
+- key features
+- applications
+- related equipment
+- brochure/download if verified
+- request quote CTA
+
+Do not invent specifications.
+
+---
+
+PARTS
+
+Create a dedicated Parts page.
+
+Potential content:
+
+- genuine SHANTUI parts
+- parts categories where verified
+- support information
+- parts-request flow
+- technical assistance
+- logistics/support explanation
+- CTA
+
+The homepage may preview Parts but must link to this dedicated page.
+
+---
+
+SERVICES
+
+Create a dedicated Services page.
+
+This page must NOT exist only as a small homepage section.
+
+Use verified existing research to determine the appropriate service structure.
+
+Potential areas may include:
+
+- after-sales support
+- technical consultation
+- maintenance support
+- equipment support
+- spare-parts support
+- inspection
+- customer assistance
+- service-request flow
+
+Do not invent services that cannot be supported by research or business information.
+
+---
+
+APPLICATIONS / INDUSTRIES
+
+Create a dedicated Applications or Industries page.
+
+Potential areas may include verified SHANTUI use cases such as:
+
+- construction
+- mining
+- road construction
+- earthmoving
+- infrastructure
+- municipal work
+
+Use verified research.
+
+Do not invent market claims.
+
+---
+
+ABOUT US / COMPANY
+
+Create a dedicated About Us / Company page.
+
+Do NOT reduce company information to a small homepage paragraph.
+
+Potential content may include:
+
+- SHANTUI overview
+- global company presence
+- engineering/manufacturing credibility
+- Afghanistan representation
+- local market mission
+- company values
+- support commitment
+- verified global information
+- relevant trust information
+
+Clearly distinguish:
+
+SHANTUI GLOBAL
+
+from
+
+SHANTUI AFGHANISTAN / AFGHANISTAN REPRESENTATION.
+
+Do not fabricate Afghanistan-specific history.
+
+---
+
+CONTACT
+
+Create a dedicated Contact page.
+
+Potential content:
+
+- Afghanistan office information
+- official contact methods
+- inquiry options
+- map/address when verified
+- contact form
+- departments where appropriate
+- working hours when verified
+- WhatsApp/phone/email only when verified
+
+Do not insert fake contact information.
+
+---
+
+REQUEST A QUOTE
+
+Where appropriate, create a dedicated quote/inquiry route or properly designed workflow.
+
+It may support:
+
+- selected equipment
+- customer details
+- company information
+- location
+- inquiry message
+- preferred contact method
+
+Clearly distinguish frontend form behavior from actual backend submission.
+
+---
+
+DOWNLOADS / BROCHURES
+
+If sufficient verified materials exist, provide a dedicated Downloads/Brochures page or structured downloads section.
+
+Do not provide fake download links.
+
+Use only verified brochures and documents.
+
+---
+
+NEWS / MEDIA
+
+If reliable content and project scope justify it, create a dedicated News / Media page architecture.
+
+Do not populate it with invented news.
+
+If real content is unavailable, create the architecture only when useful or defer implementation.
+
+---
+
+PRIVACY / LEGAL
+
+Provide dedicated legal/privacy pages where required.
+
+Do not mix legal content into ordinary marketing sections.
+
+---
+
+3. NAVIGATION MUST REFLECT THE MULTI-PAGE ARCHITECTURE
+
+The primary navigation should route users to dedicated pages.
+
+Do NOT make major navigation items simply scroll to homepage sections when a dedicated page exists.
+
+For example:
+
+Home
+Equipment
+Parts
+Services
+Applications
+About Us
+Contact
+
+should normally navigate to dedicated routes.
+
+Homepage sections may include:
+
+"Explore Equipment"
+"View Services"
+"Learn About SHANTUI"
+"Contact Us"
+
+that lead into those dedicated pages.
+
+Navigation should behave correctly in both:
+
+- Dari RTL
+- English LTR
+
+---
+
+4. PAGE ROUTING MUST BE PROFESSIONAL
+
+Use a proper maintainable routing architecture.
+
+Preserve existing routing if it is technically suitable.
+
+If the current custom routing becomes limiting, migrate to an appropriate routing solution rather than expanding fragile route logic.
+
+Each important page should have:
+
+- a distinct route
+- page-specific title
+- appropriate metadata
+- correct heading hierarchy
+- direct navigation support
+- browser history support
+- refresh/deep-link support
+
+Where appropriate, product detail URLs should have stable meaningful routes.
+
+---
+
+5. HOME IS NOT THE ENTIRE WEBSITE
+
+The homepage should act as the flagship overview and discovery gateway.
+
+It should NOT contain the complete content from every page.
+
+For example:
+
+Home Services section
+? short premium preview
+? CTA to full Services page.
+
+Home About section
+? concise introduction
+? CTA to About Us.
+
+Home Equipment
+? featured models/categories
+? CTA to full Equipment page.
+
+Home Applications
+? selected industries
+? CTA to Applications page.
+
+This keeps Home visually strong and prevents excessive length.
+
+---
+
+6. DO NOT BLINDLY PRESERVE THE CURRENT DESIGN
+
+The current project contains valuable work.
+
+Preserve useful engineering and verified information.
+
+However:
+
+THE EXISTING VISUAL DESIGN IS NOT PROTECTED.
+
+You may completely redesign:
+
+- Header
+- Navigation
+- Hero
+- homepage composition
+- section layouts
+- internal page layouts
+- visual hierarchy
+- typography
+- spacing
+- card systems
+- product presentation
+- interactions
+- animations
+- section transitions
+- background treatments
+- image treatment
+- old design-system choices
+
+when they prevent the project from achieving a premium international standard.
+
+Do not preserve weak design because code already exists.
+
+---
+
+7. PRESERVE USEFUL EXISTING WORK
+
+Before changing anything, identify what should be retained.
+
+Potentially preserve:
+
+- verified SHANTUI research
+- official source information
+- product data
+- product specifications
+- useful descriptions
+- official assets
+- existing data structures
+- routing concepts
+- search logic
+- comparison logic
+- Dari RTL support
+- English LTR support
+- accessibility logic
+- useful utilities
+- validated tests
+- performance improvements
+- useful interactions
+
+Preserve good engineering.
+
+Replace weak visual design.
+
+---
+
+8. READ THE EXISTING PROJECT PROMPTS FIRST
+
+Before substantial implementation begins, locate and read the existing project prompts, including where present:
+
+- "promt.txt"
+- "promt1.txt"
+- "promt2.txt"
+
+Also inspect only the most relevant existing files such as:
+
+- design research
+- showroom direction
+- screenshots
+- QA reports
+- architecture notes
+- product research
+- source research
+- previous implementation notes
+
+Extract:
+
+- original goals
+- user expectations
+- product requirements
+- Afghanistan-specific requirements
+- previous failures
+- previous successes
+- technical constraints
+
+Do not blindly inherit previous implementation decisions.
+
+---
+
+9. REUSE EXISTING SHANTUI RESEARCH FIRST
+
+A substantial amount of SHANTUI research has already been completed.
+
+The user previously supplied links to:
+
+- official global SHANTUI sources
+- SHANTUI regional websites
+- SHANTUI representatives/distributors in other countries
+- product and corporate sources
+
+Therefore:
+
+DO NOT RESTART RESEARCH FROM ZERO.
+
+Before external research:
+
+1. locate existing research
+2. inspect research relevant to the current page/section
+3. identify verified information
+4. reuse it
+5. research externally only when an actual information gap exists
+
+---
+
+10. USE EXISTING RESEARCH FOR ALL RELEVANT PAGES
+
+Use verified project research when building:
+
+- Equipment
+- Product pages
+- Services
+- Parts
+- Applications
+- About Us
+- Downloads
+- Global presence
+- Support
+- Navigation structure
+- quote flows
+- technical information
+
+Before new research ask:
+
+«Do we already have verified information for this inside the project?»
+
+If YES:
+reuse it.
+
+If NO:
+research only the missing information.
+
+---
+
+11. SOURCE PRIORITY
+
+Prioritize:
+
+1. Official SHANTUI global sources
+2. Official SHANTUI regional websites
+3. Official dealer/distributor websites
+4. Official brochures/catalogs/PDFs
+5. Reliable secondary sources only when necessary
+
+---
+
+12. OTHER SHANTUI COUNTRY WEBSITES ARE REFERENCES, NOT TEMPLATES
+
+Use other SHANTUI country websites to learn:
+
+- product organization
+- categories
+- product detail architecture
+- specifications
+- service structures
+- parts structures
+- downloads
+- navigation
+- customer support
+- dealer workflows
+- inquiry flows
+
+But do not clone them.
+
+SHANTUI Afghanistan must have its own premium visual identity.
+
+---
+
+13. PRODUCT DATA SAFETY
+
+Never invent:
+
+- engine data
+- power
+- operating weight
+- dimensions
+- capacity
+- warranty
+- product availability
+- Afghanistan stock
+- brochures
+- certification data
+
+Separate:
+
+GLOBAL PRODUCT DATA
+
+from
+
+AFGHANISTAN MARKET AVAILABILITY.
+
+---
+
+14. AGENT-BASED EXECUTION IS MANDATORY
+
+Use an Agent-Orchestrated workflow.
+
+Astra must not personally perform every low-level task.
+
+Before each meaningful task:
+
+1. classify it
+2. choose the smallest capable agent/model
+3. provide minimal necessary context
+4. receive concise results
+5. make the project-level decision
+
+Goal:
+
+HIGH QUALITY
++
+LOW TOKEN CONSUMPTION
++
+LOW CONTEXT WASTE.
+
+---
+
+15. LIGHTWEIGHT AGENT
+
+Use lightweight agents for:
+
+- file discovery
+- folder inspection
+- locating components
+- locating styles
+- asset inventory
+- small file reads
+- running commands
+- starting server
+- screenshots
+- console checks
+- repetitive edits
+- formatting
+- simple Tailwind changes
+- simple translations
+- content replacement
+
+Do not use Astra-level reasoning for these tasks.
+
+---
+
+16. STANDARD CODING AGENT
+
+Use standard coding agents for:
+
+- React implementation
+- Tailwind
+- reusable components
+- routing
+- responsive behavior
+- forms
+- state management
+- localization
+- accessibility implementation
+- ordinary debugging
+- data wiring
+- implementation of approved designs
+
+---
+
+17. SPECIALIST AGENTS / SKILLS
+
+Use specialists for:
+
+- UI/UX
+- Visual Design
+- Web Design
+- Creative Direction
+- Design Systems
+- Typography
+- Responsive Design
+- Accessibility
+- React Architecture
+- RTL
+- Internationalization
+- Browser Visual QA
+- Screenshot Analysis
+- Performance
+- SEO
+- Asset Optimization
+
+---
+
+18. ASTRA / HIGH REASONING
+
+Reserve Astra for:
+
+- creative direction
+- difficult architecture decisions
+- design comparisons
+- ambiguous visual problems
+- complex trade-offs
+- final section judgment
+- final visual QA
+- conflict resolution between agents
+
+Do not spend Astra reasoning on mechanical tasks.
+
+---
+
+19. TOKEN AND CONTEXT GOVERNANCE
+
+Before reading files:
+
+1. define the task
+2. identify required information
+3. identify smallest relevant file set
+4. load only those files
+
+Do NOT:
+
+- load entire repository
+- repeatedly reread unchanged files
+- send entire project history to every agent
+- repeat existing research
+- repeatedly summarize the project
+- generate unnecessary long reports
+
+---
+
+20. AGENT STATE
+
+Maintain:
+
+"docs/agent-state.md"
+
+Keep it short.
+
+Include:
+
+- current phase
+- current page
+- current section
+- approved direction
+- active files
+- unresolved issues
+- next action
+
+---
+
+21. MANDATORY SKILL DISCOVERY
+
+Before substantial design work:
+
+SEARCH THE AVAILABLE SKILL SYSTEM.
+
+Search specifically for:
+
+- UI/UX Design
+- Web Design
+- Visual Design
+- Creative Direction
+- Design Systems
+- Typography
+- Responsive Design
+- React
+- Accessibility
+- RTL
+- Internationalization
+- Browser Automation
+- Screenshot Analysis
+- Visual QA
+- Performance
+- Technical SEO
+- Asset Optimization
+
+You are not allowed to conclude:
+
+«No additional skill is necessary.»
+
+without performing actual discovery.
+
+---
+
+22. SKILL INSTALLATION IS MANDATORY
+
+Discovery alone is not enough.
+
+Install or enable useful, safe, available Skills that materially improve the project.
+
+Prefer high-value coverage for:
+
+- UI/UX / visual design
+- React/frontend
+- responsive design
+- accessibility
+- browser/screenshot QA
+- performance
+- SEO
+
+Do not install random or redundant skills.
+
+If installation is blocked:
+
+document the limitation and use the best available alternative.
+
+---
+
+23. SKILL AUDIT
+
+Create:
+
+"docs/skill-audit.md"
+
+Record briefly:
+
+- skills found
+- skills installed/enabled
+- purpose
+- rejected relevant skills
+- limitations
+
+---
+
+24. INSTALLED SKILLS MUST ACTUALLY BE USED
+
+Do not install skills only to satisfy this instruction.
+
+Use them during relevant work.
+
+---
+
+25. TAILWIND CSS IS MANDATORY
+
+Tailwind CSS must be the PRIMARY styling system for redesigned/new UI.
+
+If Tailwind is missing:
+
+1. inspect React/Vite
+2. install compatible stable Tailwind
+3. configure correctly
+4. verify development
+5. verify production build
+6. then begin major redesign
+
+---
+
+26. USE TAILWIND FOR
+
+Use Tailwind for:
+
+- layout
+- Grid
+- Flexbox
+- spacing
+- typography
+- sizing
+- colors
+- backgrounds
+- borders
+- shadows
+- gradients
+- transitions
+- responsive behavior
+- hover/focus
+- component states
+- RTL/LTR layout
+
+---
+
+27. TAILWIND DESIGN SYSTEM
+
+Create reusable design tokens for:
+
+- SHANTUI orange
+- industrial dark tones
+- neutral backgrounds
+- text hierarchy
+- typography scale
+- content widths
+- spacing
+- radius
+- shadows
+- motion
+- z-index
+
+Avoid excessive arbitrary values unless composition genuinely requires them.
+
+---
+
+28. CUSTOM CSS
+
+Custom CSS is allowed only when appropriate for:
+
+- complex keyframes
+- advanced masks
+- special pseudo-elements
+- browser-specific fixes
+- sophisticated graphical effects
+
+Do not build a second giant CSS architecture beside Tailwind.
+
+---
+
+29. PLAYWRIGHT IS MANDATORY
+
+Use the real browser through Playwright.
+
+The rendered site is the source of truth.
+
+Do not judge design quality only from source code.
+
+---
+
+30. PLAYWRIGHT IS ALSO A DESIGN TOOL
+
+For every major section/page:
+
+1. run website
+2. open actual route
+3. capture screenshots
+4. visually inspect
+5. critique
+6. improve
+7. render again
+8. compare
+9. repeat when necessary
+
+---
+
+31. REQUIRED VIEWPORTS
+
+Inspect at minimum:
+
+- 1440px
+- 1024px
+- 768px
+- 390px
+
+When appropriate:
+
+- 320px
+- large desktop
+
+Inspect both:
+
+- Dari RTL
+- English LTR
+
+---
+
+32. BUILD SECTION BY SECTION
+
+Do NOT implement an entire page and only inspect it afterward.
+
+For every major section:
+
+DESIGN
+? IMPLEMENT
+? RUN
+? SCREENSHOT
+? VISUAL REVIEW
+? FIX
+? RENDER AGAIN
+? TECHNICAL TEST
+? PASS GATE
+? NEXT SECTION
+
+---
+
+33. PAGE-BY-PAGE DEVELOPMENT IS ALSO MANDATORY
+
+After the homepage visual foundation is established:
+
+BUILD ONE PAGE AT A TIME.
+
+Example:
+
+HOME COMPLETE
+? EQUIPMENT PAGE
+? REVIEW
+? FIX
+? APPROVE
+? NEXT PAGE.
+
+Then:
+
+PARTS
+? review
+? approve.
+
+Then:
+
+SERVICES
+? review
+? approve.
+
+Then:
+
+APPLICATIONS
+? review
+? approve.
+
+Then:
+
+ABOUT US
+? review
+? approve.
+
+Then:
+
+CONTACT
+? review
+? approve.
+
+Do not redesign all internal pages simultaneously.
+
+---
+
+34. PAGE COMPLETION GATE
+
+A page is not complete because:
+
+- routes work
+- code compiles
+- content appears
+- tests pass
+
+A page is complete only when:
+
+- all important sections pass visual review
+- page-level visual hierarchy is strong
+- mobile version is strong
+- Dari RTL works
+- English LTR works
+- page-specific interactions work
+- accessibility passes
+- technical tests pass
+
+Only then move to another page.
+
+---
+
+35. HOMEPAGE ORDER
+
+Recommended homepage development sequence:
+
+1. Header / Navigation
+2. Hero
+3. Hero transition
+4. Equipment Showroom
+5. Category discovery
+6. Services preview
+7. Applications preview
+8. Company/About preview
+9. Trust/Support
+10. CTA
+11. Footer
+
+Each must pass its own gate.
+
+---
+
+36. INTERNAL PAGE ORDER
+
+After Home is visually stable, proceed approximately:
+
+1. Equipment
+2. Equipment Category
+3. Product Detail
+4. Parts
+5. Services
+6. Applications / Industries
+7. About Us / Company
+8. Downloads
+9. Contact
+10. Quote
+11. News/Media if required
+12. Privacy/Legal
+
+Adjust only when project architecture requires it.
+
+---
+
+37. CREATIVE DIRECTION
+
+Explore genuinely different visual approaches before committing.
+
+Potential directions:
+
+CINEMATIC INDUSTRIAL
+
+Large machinery, strong depth, environmental scale, dramatic composition.
+
+PREMIUM AUTOMOTIVE / EDITORIAL
+
+Sophisticated typography, asymmetry, premium spacing, product storytelling.
+
+GLOBAL HEAVY-EQUIPMENT FLAGSHIP
+
+Engineering authority, product navigation, corporate credibility, industrial modernism.
+
+Do not create three minor variants of the same layout.
+
+---
+
+38. CREATIVE FREEDOM
+
+You may replace previous:
+
+- Hero
+- grids
+- typography
+- cards
+- spacing
+- animation
+- compositions
+- internal page layouts
+
+if they limit quality.
+
+---
+
+39. VISUAL QUALITY BAR
+
+Ask for each section/page:
+
+- Does this look custom?
+- Does it feel premium?
+- Does it communicate machinery scale?
+- Does it fit a major global manufacturer?
+- Is machinery visually dominant enough?
+- Is typography authoritative?
+- Is hierarchy obvious?
+- Is there enough depth?
+- Is whitespace purposeful?
+- Does it feel too safe?
+- Does it look generic?
+- Is it memorable?
+- Does it work at 390px?
+- Is RTL intentionally designed?
+- Does LTR look equally strong?
+
+If weakness remains:
+
+DO NOT MOVE FORWARD.
+
+---
+
+40. HERO STANDARD
+
+Do not automatically use:
+
+machine left
++
+heading right
++
+paragraph
++
+two buttons.
+
+Explore stronger compositions using:
+
+- large machinery
+- layered typography
+- environment
+- depth
+- lighting
+- product identity
+- specifications
+- scroll interaction
+- controlled parallax
+- meaningful motion
+
+---
+
+41. EQUIPMENT SHOWROOM
+
+Do not reduce Equipment to three generic equal cards.
+
+Explore:
+
+- featured machines
+- category navigation
+- large imagery
+- asymmetric composition
+- model switching
+- technical information
+- product discovery
+- editorial product layouts
+
+---
+
+42. MOTION
+
+Use motion intentionally.
+
+Possible techniques:
+
+- controlled parallax
+- scroll reveal
+- machinery movement
+- scale
+- product transitions
+- section transitions
+- micro-interactions
+
+Avoid gimmicks and excessive animation.
+
+Honor:
+
+"prefers-reduced-motion".
+
+---
+
+43. ASSETS
+
+Prefer existing verified SHANTUI assets and research first.
+
+Avoid:
+
+- cartoon machinery
+- low-resolution imagery
+- stretched images
+- irrelevant stock imagery
+
+Do not redownload assets unnecessarily.
+
+---
+
+44. DARI / ENGLISH
+
+Dari must be intentionally RTL.
+
+English must be intentionally LTR.
+
+Do not design English and patch Dari later.
+
+---
+
+45. RESPONSIVE DESIGN
+
+Mobile must be intentionally designed.
+
+Review:
+
+- Hero
+- crop
+- machinery scale
+- typography
+- navigation
+- CTAs
+- product browsing
+- section rhythm
+- touch targets
+
+---
+
+46. ACCESSIBILITY
+
+Maintain/improve:
+
+- semantics
+- keyboard navigation
+- focus
+- dialogs
+- labels
+- contrast
+- heading hierarchy
+- alt text
+- reduced motion
+- touch targets
+
+---
+
+47. PERFORMANCE
+
+Premium does not mean heavy.
+
+Prefer:
+
+- WebP/AVIF
+- responsive imagery
+- lazy loading
+- Tailwind/CSS effects
+- lightweight motion
+- code splitting where useful
+
+Avoid unnecessary large libraries and effects.
+
+---
+
+48. SEO
+
+Each separate page must eventually have appropriate:
+
+- Page title
+- Meta description
+- Canonical
+- hreflang
+- semantic H1
+- Open Graph where appropriate
+- structured data where relevant
+
+Also verify:
+
+- Sitemap
+- Robots
+- internal linking
+- Organization schema
+- Product schema
+- Breadcrumb schema where useful
+
+---
+
+49. BUSINESS FUNCTIONALITY
+
+Never fake:
+
+- form submission
+- inventory
+- product availability
+- brochures
+- contact details
+- backend behavior
+
+Clearly distinguish frontend prototype behavior from real integration.
+
+---
+
+50. TECHNICAL QA
+
+Maintain tests for:
+
+- routes
+- deep links
+- console errors
+- responsive overflow
+- RTL/LTR
+- missing images
+- search
+- comparison
+- forms
+- keyboard
+- reduced motion
+- interactions
+
+Remember:
+
+TEST PASS ? DESIGN PASS.
+
+---
+
+51. VISUAL FEEDBACK LOOP
+
+For every section:
+
+RENDER
+? SCREENSHOT
+? INSPECT
+? CRITIQUE
+? IMPROVE
+? RENDER AGAIN
+
+Fix concrete weaknesses.
+
+Do not endlessly polish microscopic differences.
+
+---
+
+52. NO GENERIC TEMPLATE ARCHITECTURE
+
+Do not mechanically create:
+
+Hero
+? cards
+? text/image
+? cards
+? stats
+? CTA.
+
+Build a coherent premium brand experience.
+
+---
+
+53. DO NOT OVERDESIGN
+
+Avoid excessive:
+
+- glassmorphism
+- gradients
+- glow
+- floating decoration
+- animation
+- overlapping
+- gaming aesthetics
+
+The final experience should be:
+
+Powerful.
+Controlled.
+Industrial.
+Premium.
+Professional.
+
+---
+
+54. AGENT HANDOFF RULE
+
+Every delegated task should contain only:
+
+- objective
+- relevant files
+- constraints
+- expected output
+
+Do not send unnecessary project history.
+
+---
+
+55. STATUS REPORTING
+
+Keep progress reporting concise.
+
+Report only:
+
+- important Skill installation
+- major design decision
+- meaningful page/section completion
+- serious blocker
+- major technical risk
+- final results
+
+---
+
+56. DO NOT ASK UNNECESSARY QUESTIONS
+
+Make routine professional decisions independently.
+
+Only surface genuinely high-impact ambiguities.
+
+---
+
+57. EXECUTION PHASES
+
+Use approximately:
+
+PHASE 0
+
+Targeted project inspection
+
+PHASE 1
+
+Read existing prompts
+
+PHASE 2
+
+Reuse existing SHANTUI research
+
+PHASE 3
+
+Skill discovery
+
+PHASE 4
+
+Skill installation/enabling
+
+PHASE 5
+
+Architecture assessment
+
+PHASE 6
+
+Tailwind setup
+
+PHASE 7
+
+Creative direction
+
+PHASE 8
+
+Homepage — section by section
+
+PHASE 9
+
+Equipment — page by page
+
+PHASE 10
+
+Parts
+
+PHASE 11
+
+Services
+
+PHASE 12
+
+Applications
+
+PHASE 13
+
+About Us
+
+PHASE 14
+
+Contact / Quote
+
+PHASE 15
+
+Remaining pages
+
+PHASE 16
+
+Responsive QA
+
+PHASE 17
+
+Accessibility
+
+PHASE 18
+
+Performance
+
+PHASE 19
+
+SEO
+
+PHASE 20
+
+Full Playwright visual regression
+
+PHASE 21
+
+Final production QA
+
+---
+
+58. FIRST ACTIONS
+
+Begin now by:
+
+1. use lightweight agent to inspect project structure
+2. locate "promt.txt", "promt1.txt", "promt2.txt"
+3. read only relevant project documents
+4. locate existing SHANTUI research
+5. inspect existing homepage screenshots
+6. inspect current routing/page architecture
+7. identify what to preserve
+8. identify what to redesign
+9. perform mandatory Skill discovery
+10. install/enable useful Skills
+11. create/update "docs/skill-audit.md"
+12. create/update "docs/agent-state.md"
+13. verify Tailwind
+14. install/configure Tailwind if necessary
+15. verify dev and production build
+16. define proper multi-page architecture
+17. diagnose current visual failures
+18. define new Creative Direction
+19. start with Header only
+20. complete its visual + technical gate
+21. continue section by section
+22. finish Home
+23. then continue page by page
+
+Do NOT rebuild the whole project in one pass.
+
+---
+
+59. FINAL EXECUTION LAW
+
+Your goal is not:
+
+"produce as much code as possible."
+
+Your goal is:
+
+Create the strongest possible SHANTUI Afghanistan multi-page website while minimizing unnecessary token consumption, repeated research, unnecessary context, rework, and weak design decisions.
+
+Use:
+
+- existing research first
+- specialized Agents intelligently
+- installed Skills intelligently
+- Astra only for high-value reasoning
+- Tailwind CSS as the primary styling architecture
+- Playwright as the visual feedback system
+- real screenshots as evidence
+- section-by-section development
+- page-by-page development
+
+For every section:
+
+BUILD IT.
+RENDER IT.
+LOOK AT IT.
+CRITIQUE IT.
+IMPROVE IT.
+TEST IT.
+THEN MOVE FORWARD.
+
+For every page:
+
+BUILD ITS SECTIONS.
+REVIEW THE FULL PAGE.
+CHECK MOBILE.
+CHECK RTL/LTR.
+PASS VISUAL QA.
+PASS TECHNICAL QA.
+THEN MOVE TO THE NEXT PAGE.
+
+Never confuse technically working code with excellent design.
+
+The final SHANTUI Afghanistan website must look, behave, and feel worthy of a major international heavy-machinery brand.

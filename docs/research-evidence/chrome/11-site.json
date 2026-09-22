@@ -1,0 +1,24 @@
+{
+  "id": "11",
+  "url": "https://www.jabengineeringplc.com/",
+  "checkedAt": "2026-09-21T07:43:44.551Z",
+  "browser": "Google Chrome",
+  "browserVersion": "153.0.8010.53",
+  "status": 404,
+  "finalUrl": "https://www.jabengineeringplc.com/",
+  "title": "404 Not Found",
+  "text": "404\nNot Found\n\nThe resource requested could not be found on this server!\n\n\nProudly powered by LiteSpeed Web Server\n\nPlease be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.",
+  "links": [],
+  "desktop": {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "font": "Arial, Helvetica, sans-serif"
+  },
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 595,
+    "buttons": []
+  },
+  "requestsObserved": 1,
+  "declaredResponseBytes": 1251
+}

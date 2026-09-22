@@ -1,0 +1,114 @@
+{
+  "checkedAt": "2026-09-22T09:22:26.760Z",
+  "route": "/",
+  "section": "header",
+  "origin": "http://127.0.0.1:4176",
+  "locales": [
+    "en",
+    "fa"
+  ],
+  "widths": [
+    1440,
+    1024,
+    768,
+    390
+  ],
+  "results": [
+    {
+      "passed": true,
+      "locale": "en",
+      "width": 1440,
+      "screenshot": "docs\\master-review\\home\\header\\en-1440.png",
+      "dimensions": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 6281
+      },
+      "startedAt": "2026-09-22T09:21:41.760Z"
+    },
+    {
+      "passed": true,
+      "locale": "en",
+      "width": 1024,
+      "screenshot": "docs\\master-review\\home\\header\\en-1024.png",
+      "dimensions": {
+        "viewport": 1024,
+        "scrollWidth": 1024,
+        "scrollHeight": 6091
+      },
+      "startedAt": "2026-09-22T09:21:50.672Z"
+    },
+    {
+      "passed": true,
+      "locale": "en",
+      "width": 768,
+      "screenshot": "docs\\master-review\\home\\header\\en-768.png",
+      "dimensions": {
+        "viewport": 768,
+        "scrollWidth": 768,
+        "scrollHeight": 6934
+      },
+      "startedAt": "2026-09-22T09:21:56.028Z"
+    },
+    {
+      "passed": true,
+      "locale": "en",
+      "width": 390,
+      "screenshot": "docs\\master-review\\home\\header\\en-390.png",
+      "dimensions": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "scrollHeight": 9910
+      },
+      "startedAt": "2026-09-22T09:22:01.065Z"
+    },
+    {
+      "passed": true,
+      "locale": "fa",
+      "width": 1440,
+      "screenshot": "docs\\master-review\\home\\header\\fa-1440.png",
+      "dimensions": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 6197
+      },
+      "startedAt": "2026-09-22T09:22:06.104Z"
+    },
+    {
+      "passed": true,
+      "locale": "fa",
+      "width": 1024,
+      "screenshot": "docs\\master-review\\home\\header\\fa-1024.png",
+      "dimensions": {
+        "viewport": 1024,
+        "scrollWidth": 1024,
+        "scrollHeight": 6279
+      },
+      "startedAt": "2026-09-22T09:22:10.470Z"
+    },
+    {
+      "passed": true,
+      "locale": "fa",
+      "width": 768,
+      "screenshot": "docs\\master-review\\home\\header\\fa-768.png",
+      "dimensions": {
+        "viewport": 768,
+        "scrollWidth": 768,
+        "scrollHeight": 7089
+      },
+      "startedAt": "2026-09-22T09:22:16.162Z"
+    },
+    {
+      "passed": true,
+      "locale": "fa",
+      "width": 390,
+      "screenshot": "docs\\master-review\\home\\header\\fa-390.png",
+      "dimensions": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "scrollHeight": 9641
+      },
+      "startedAt": "2026-09-22T09:22:21.522Z"
+    }
+  ]
+}

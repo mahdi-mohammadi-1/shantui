@@ -1,0 +1,24 @@
+{
+  "name": "shantui-afghanistan-prototype",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "seo:generate": "node .research-tools/generate-seo.mjs",
+    "test:ui": "node .research-tools/verify-multipage.mjs"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@fontsource/barlow-semi-condensed": "^5.2.0",
+    "@fontsource/noto-sans-arabic": "^5.2.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "tailwindcss": "^4.3.3",
+    "vite": "^7.1.0"
+  }
+}

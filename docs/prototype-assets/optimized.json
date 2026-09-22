@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bulldozer",
+    "width": 640,
+    "height": 340,
+    "bytes": 34526
+  },
+  {
+    "id": "bulldozer-small",
+    "width": 320,
+    "height": 170,
+    "bytes": 12834
+  },
+  {
+    "id": "excavator",
+    "width": 640,
+    "height": 340,
+    "bytes": 27214
+  },
+  {
+    "id": "excavator-small",
+    "width": 320,
+    "height": 170,
+    "bytes": 10432
+  },
+  {
+    "id": "loader",
+    "width": 640,
+    "height": 340,
+    "bytes": 31880
+  },
+  {
+    "id": "loader-small",
+    "width": 320,
+    "height": 170,
+    "bytes": 13188
+  },
+  {
+    "id": "compactor",
+    "width": 640,
+    "height": 313,
+    "bytes": 23932
+  },
+  {
+    "id": "compactor-small",
+    "width": 320,
+    "height": 156,
+    "bytes": 9860
+  },
+  {
+    "id": "grader",
+    "width": 640,
+    "height": 340,
+    "bytes": 40786
+  },
+  {
+    "id": "grader-small",
+    "width": 320,
+    "height": 170,
+    "bytes": 13610
+  },
+  {
+    "id": "truck",
+    "width": 640,
+    "height": 313,
+    "bytes": 35292
+  },
+  {
+    "id": "truck-small",
+    "width": 320,
+    "height": 156,
+    "bytes": 14176
+  },
+  {
+    "id": "work-mine",
+    "width": 800,
+    "height": 488,
+    "bytes": 57036
+  },
+  {
+    "id": "work-road",
+    "width": 800,
+    "height": 488,
+    "bytes": 82408
+  },
+  {
+    "id": "work-earth",
+    "width": 800,
+    "height": 488,
+    "bytes": 59228
+  },
+  {
+    "id": "parts",
+    "width": 800,
+    "height": 671,
+    "bytes": 43482
+  },
+  {
+    "id": "hero",
+    "width": 1920,
+    "height": 664,
+    "bytes": 172872
+  },
+  {
+    "id": "hero-mobile",
+    "width": 1000,
+    "height": 346,
+    "bytes": 57062
+  }
+]

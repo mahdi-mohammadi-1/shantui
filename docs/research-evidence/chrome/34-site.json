@@ -1,0 +1,8 @@
+{
+  "id": "34",
+  "url": "https://www.youtube.com/@shantuiglobal1952",
+  "checkedAt": "2026-09-21T07:44:48.220Z",
+  "browser": "Google Chrome",
+  "browserVersion": "153.0.8010.53",
+  "error": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.youtube.com/@shantuiglobal1952\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "20",
+  "url": "https://ecc.net.sa/en/home/",
+  "checkedAt": "2026-09-21T07:44:29.362Z",
+  "browser": "Google Chrome",
+  "browserVersion": "153.0.8010.53",
+  "status": 403,
+  "finalUrl": "https://ecc.net.sa/en/home/",
+  "title": "Checking your browser before accessing. Just a moment...",
+  "text": "Checking your browser before accessing\necc.net.sa\n\nPlease wait for up to 5 seconds...",
+  "links": [],
+  "desktop": {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "font": "\"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif"
+  },
+  "error": "page.evaluate: Execution context was destroyed, most likely because of a navigation"
+}

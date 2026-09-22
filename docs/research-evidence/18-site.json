@@ -1,0 +1,6 @@
+{
+  "id": "18",
+  "url": "https://astramc.ph/",
+  "checkedAt": "2026-09-21T06:24:17.127Z",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://astramc.ph/\nCall log:\n\u001b[2m  - navigating to \"https://astramc.ph/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

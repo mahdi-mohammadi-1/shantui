@@ -1,0 +1,115 @@
+{
+  "id": "60",
+  "url": "https://www.shantuidobrasil.com.br/",
+  "checkedAt": "2026-09-21T07:54:16.970Z",
+  "browser": "Google Chrome",
+  "browserVersion": "153.0.8010.53",
+  "failedRequests": [
+    {
+      "url": "https://static.wixstatic.com/media/31bda5_825718a734f84ecb8cc8f9d86ad59ce6~mv2.jpg/v1/fill/w_640,h_1110,al_br,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/31bda5_825718a734f84ecb8cc8f9d86ad59ce6~mv2.jpg",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/31bda5_825718a734f84ecb8cc8f9d86ad59ce6~mv2.jpg/v1/fill/w_80,h_40,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/31bda5_825718a734f84ecb8cc8f9d86ad59ce6~mv2.jpg",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js",
+      "error": "net::ERR_CONNECTION_CLOSED"
+    }
+  ],
+  "navigationWarning": "page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.shantuidobrasil.com.br/\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "title": "Início | Shantui do Brasil",
+  "finalUrl": "https://www.shantuidobrasil.com.br/",
+  "text": "Início\nMáquinas\nPeças\nSobre\nAutorizadas\nOuvidoria\nDistribuidor Shantui\nno Brasil\nConheça nossos equipamentos aqui\nResponsabilidade socioambiental é a responsabilidade que a Shantui do Brasil tem com a sociedade e com o meio ambiente. Estamos focados em respeitar o meio ambiente e adotar políticas que tenham como objetivo a promoção da sustentabilidade e do consumo consciente em respeito ao nosso planeta e as gerações futuras, por isso, a partir de outubro de 2024, na entrega de cada máquina nova da Shantui no Brasil, será entregue ao cliente proprietário e/ou usuário um lápis semente para uso e posterior plantio na natureza em local à ser definido pelos novos proprietários do equipamento Shantui.\nSobre nós\nDesde o início, a Shantui se dedicou a produzir equipamentos de construção de alta qualidade, com uma visão clara de se tornar uma referência global em tecnologia de tratores de esteira. Ao longo dos anos, nossas equipes de engenharia e pesquisa trabalharam incansavelmente para alcançar esse objetivo, aprimorando constantemente nossos produtos e investindo em tecnologias avançadas para enfrentar os desafios mais exigentes do mercado.\nConheça um pouco mais aqui\nRobustez\ne conforto\nOferecemos qualidade de líder de mercado na construção de nossos tratores, sem esquecer de qualidade, conforto e segurança para as operações, contando com itens como aquecimento de bancos, ar condicionado, night light de fábrica, ripper de fábrica, protetor de roletes de fábrica, lamina angulável (PAT) e transmissão hidrostática.\nReceba uma proposta\n\n​© 2026 por Shantui do Brasil\n\nPolítica de privacidade\n\nContato/ endereços",
+  "links": [
+    {
+      "text": "Início",
+      "url": "https://www.shantuidobrasil.com.br/"
+    },
+    {
+      "text": "Máquinas",
+      "url": "https://www.shantuidobrasil.com.br/equipamentos"
+    },
+    {
+      "text": "Peças",
+      "url": "https://www.shantuidobrasil.com.br/pe%C3%A7as-de-reposi%C3%A7%C3%A3o"
+    },
+    {
+      "text": "Sobre",
+      "url": "https://www.shantuidobrasil.com.br/sobre"
+    },
+    {
+      "text": "Autorizadas",
+      "url": "https://www.shantuidobrasil.com.br/contato"
+    },
+    {
+      "text": "Ouvidoria",
+      "url": "https://www.shantuidobrasil.com.br/ouvidoria"
+    },
+    {
+      "text": "Início",
+      "url": "https://www.shantuidobrasil.com.br/"
+    },
+    {
+      "text": "Peças",
+      "url": "https://www.shantuidobrasil.com.br/pe%C3%A7as-de-reposi%C3%A7%C3%A3o"
+    },
+    {
+      "text": "Sobre",
+      "url": "https://www.shantuidobrasil.com.br/sobre"
+    },
+    {
+      "text": "Concessionárias Autorizadas",
+      "url": "https://www.shantuidobrasil.com.br/contato"
+    },
+    {
+      "text": "Leads coopavel",
+      "url": "https://www.shantuidobrasil.com.br/leadcoopavel"
+    },
+    {
+      "text": "Ouvidoria",
+      "url": "https://www.shantuidobrasil.com.br/ouvidoria"
+    },
+    {
+      "text": "Itens 1",
+      "url": "https://www.shantuidobrasil.com.br/itens-1"
+    },
+    {
+      "text": "Conheça nossos equipamentos aqui",
+      "url": "https://www.shantuidobrasil.com.br/equipamentos"
+    },
+    {
+      "text": "Conheça um pouco mais aqui",
+      "url": "https://www.shantuidobrasil.com.br/contato"
+    },
+    {
+      "text": "Receba uma proposta",
+      "url": "https://www.shantuidobrasil.com.br/proposta"
+    },
+    {
+      "text": "Política de privacidade",
+      "url": "https://www.shantuidobrasil.com.br/pol%C3%ADtica-de-privacidade"
+    },
+    {
+      "text": "Contato/ endereços",
+      "url": "https://www.shantuidobrasil.com.br/contato"
+    }
+  ],
+  "fields": [],
+  "mobile": {
+    "width": 320,
+    "scrollWidth": 320,
+    "viewport": "width=320, user-scalable=yes",
+    "buttons": [
+      {
+        "text": "",
+        "label": "Abrir menu de navegação",
+        "class": "qJB7LV MENU_AS_CONTAINER_TOGGLE wixui-mobile-menu__icon"
+      }
+    ]
+  },
+  "mobileColdLoad": true,
+  "menuClickAttempted": true,
+  "menuVisualVerification": "See screenshot; a dispatched click alone does not verify an open menu"
+}

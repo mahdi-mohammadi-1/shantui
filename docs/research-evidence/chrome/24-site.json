@@ -1,0 +1,33 @@
+{
+  "id": "24",
+  "url": "https://b2b.shantuiturkiye.com/",
+  "checkedAt": "2026-09-21T07:44:41.361Z",
+  "browser": "Google Chrome",
+  "browserVersion": "153.0.8010.53",
+  "status": 403,
+  "finalUrl": "https://b2b.shantuiturkiye.com/",
+  "title": "Just a moment...",
+  "text": "b2b.shantuiturkiye.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a3ea1aaadba8928c\nPerformance and Security by Cloudflare\nPrivacy",
+  "links": [
+    {
+      "text": "Cloudflare",
+      "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.cloudflare.com/privacypolicy/"
+    }
+  ],
+  "desktop": {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "font": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 442,
+    "buttons": []
+  },
+  "requestsObserved": 7,
+  "declaredResponseBytes": 292
+}

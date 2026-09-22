@@ -1,0 +1,6 @@
+{
+  "id": "19",
+  "url": "https://www.a-bugshangroup.com/",
+  "checkedAt": "2026-09-21T06:24:17.222Z",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://www.a-bugshangroup.com/\nCall log:\n\u001b[2m  - navigating to \"https://www.a-bugshangroup.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

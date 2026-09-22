@@ -1,0 +1,8 @@
+{
+  "id": "25",
+  "url": "https://www.shantui-global.com/about/about-us.htm",
+  "checkedAt": "2026-09-21T07:44:42.135Z",
+  "browser": "Google Chrome",
+  "browserVersion": "153.0.8010.53",
+  "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.shantui-global.com/about/about-us.htm\nCall log:\n\u001b[2m  - navigating to \"https://www.shantui-global.com/about/about-us.htm\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}
